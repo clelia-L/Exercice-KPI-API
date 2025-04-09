@@ -1,0 +1,7202 @@
+[
+    {
+        "id": 25,
+        "kpi_name": "Lead Time",
+        "value": 5.16,
+        "date": "2025-01-01"
+    },
+    {
+        "id": 26,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.77,
+        "date": "2025-01-01"
+    },
+    {
+        "id": 27,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.59,
+        "date": "2025-01-01"
+    },
+    {
+        "id": 28,
+        "kpi_name": "Order Accuracy",
+        "value": 98.49,
+        "date": "2025-01-01"
+    },
+    {
+        "id": 29,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.48,
+        "date": "2025-01-01"
+    },
+    {
+        "id": 30,
+        "kpi_name": "Return Rate",
+        "value": 1.06,
+        "date": "2025-01-01"
+    },
+    {
+        "id": 31,
+        "kpi_name": "Lead Time",
+        "value": 4.99,
+        "date": "2025-01-02"
+    },
+    {
+        "id": 32,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.04,
+        "date": "2025-01-02"
+    },
+    {
+        "id": 33,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.88,
+        "date": "2025-01-02"
+    },
+    {
+        "id": 34,
+        "kpi_name": "Order Accuracy",
+        "value": 99.77,
+        "date": "2025-01-02"
+    },
+    {
+        "id": 35,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.08,
+        "date": "2025-01-02"
+    },
+    {
+        "id": 36,
+        "kpi_name": "Return Rate",
+        "value": 1.28,
+        "date": "2025-01-02"
+    },
+    {
+        "id": 37,
+        "kpi_name": "Lead Time",
+        "value": 5.75,
+        "date": "2025-01-03"
+    },
+    {
+        "id": 38,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.08,
+        "date": "2025-01-03"
+    },
+    {
+        "id": 39,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.31,
+        "date": "2025-01-03"
+    },
+    {
+        "id": 40,
+        "kpi_name": "Order Accuracy",
+        "value": 97.8,
+        "date": "2025-01-03"
+    },
+    {
+        "id": 41,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.35,
+        "date": "2025-01-03"
+    },
+    {
+        "id": 42,
+        "kpi_name": "Return Rate",
+        "value": 1.62,
+        "date": "2025-01-03"
+    },
+    {
+        "id": 43,
+        "kpi_name": "Lead Time",
+        "value": 4.53,
+        "date": "2025-01-04"
+    },
+    {
+        "id": 44,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.28,
+        "date": "2025-01-04"
+    },
+    {
+        "id": 45,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.38,
+        "date": "2025-01-04"
+    },
+    {
+        "id": 46,
+        "kpi_name": "Order Accuracy",
+        "value": 99.03,
+        "date": "2025-01-04"
+    },
+    {
+        "id": 47,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.38,
+        "date": "2025-01-04"
+    },
+    {
+        "id": 48,
+        "kpi_name": "Return Rate",
+        "value": 2.07,
+        "date": "2025-01-04"
+    },
+    {
+        "id": 49,
+        "kpi_name": "Lead Time",
+        "value": 5.14,
+        "date": "2025-01-05"
+    },
+    {
+        "id": 50,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.67,
+        "date": "2025-01-05"
+    },
+    {
+        "id": 51,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.72,
+        "date": "2025-01-05"
+    },
+    {
+        "id": 52,
+        "kpi_name": "Order Accuracy",
+        "value": 98.11,
+        "date": "2025-01-05"
+    },
+    {
+        "id": 53,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.19,
+        "date": "2025-01-05"
+    },
+    {
+        "id": 54,
+        "kpi_name": "Return Rate",
+        "value": 1.44,
+        "date": "2025-01-05"
+    },
+    {
+        "id": 55,
+        "kpi_name": "Lead Time",
+        "value": 5.34,
+        "date": "2025-01-06"
+    },
+    {
+        "id": 56,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.62,
+        "date": "2025-01-06"
+    },
+    {
+        "id": 57,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.66,
+        "date": "2025-01-06"
+    },
+    {
+        "id": 58,
+        "kpi_name": "Order Accuracy",
+        "value": 99.14,
+        "date": "2025-01-06"
+    },
+    {
+        "id": 59,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.58,
+        "date": "2025-01-06"
+    },
+    {
+        "id": 60,
+        "kpi_name": "Return Rate",
+        "value": 1.3,
+        "date": "2025-01-06"
+    },
+    {
+        "id": 61,
+        "kpi_name": "Lead Time",
+        "value": 5.78,
+        "date": "2025-01-07"
+    },
+    {
+        "id": 62,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.61,
+        "date": "2025-01-07"
+    },
+    {
+        "id": 63,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.51,
+        "date": "2025-01-07"
+    },
+    {
+        "id": 64,
+        "kpi_name": "Order Accuracy",
+        "value": 97.64,
+        "date": "2025-01-07"
+    },
+    {
+        "id": 65,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.21,
+        "date": "2025-01-07"
+    },
+    {
+        "id": 66,
+        "kpi_name": "Return Rate",
+        "value": 2.23,
+        "date": "2025-01-07"
+    },
+    {
+        "id": 67,
+        "kpi_name": "Lead Time",
+        "value": 5.54,
+        "date": "2025-01-08"
+    },
+    {
+        "id": 68,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.53,
+        "date": "2025-01-08"
+    },
+    {
+        "id": 69,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.42,
+        "date": "2025-01-08"
+    },
+    {
+        "id": 70,
+        "kpi_name": "Order Accuracy",
+        "value": 97.09,
+        "date": "2025-01-08"
+    },
+    {
+        "id": 71,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.85,
+        "date": "2025-01-08"
+    },
+    {
+        "id": 72,
+        "kpi_name": "Return Rate",
+        "value": 1.52,
+        "date": "2025-01-08"
+    },
+    {
+        "id": 73,
+        "kpi_name": "Lead Time",
+        "value": 5.78,
+        "date": "2025-01-09"
+    },
+    {
+        "id": 74,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.57,
+        "date": "2025-01-09"
+    },
+    {
+        "id": 75,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.54,
+        "date": "2025-01-09"
+    },
+    {
+        "id": 76,
+        "kpi_name": "Order Accuracy",
+        "value": 98.25,
+        "date": "2025-01-09"
+    },
+    {
+        "id": 77,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.37,
+        "date": "2025-01-09"
+    },
+    {
+        "id": 78,
+        "kpi_name": "Return Rate",
+        "value": 1.46,
+        "date": "2025-01-09"
+    },
+    {
+        "id": 79,
+        "kpi_name": "Lead Time",
+        "value": 4.78,
+        "date": "2025-01-10"
+    },
+    {
+        "id": 80,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.54,
+        "date": "2025-01-10"
+    },
+    {
+        "id": 81,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.59,
+        "date": "2025-01-10"
+    },
+    {
+        "id": 82,
+        "kpi_name": "Order Accuracy",
+        "value": 97.02,
+        "date": "2025-01-10"
+    },
+    {
+        "id": 83,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.5,
+        "date": "2025-01-10"
+    },
+    {
+        "id": 84,
+        "kpi_name": "Return Rate",
+        "value": 1.63,
+        "date": "2025-01-10"
+    },
+    {
+        "id": 85,
+        "kpi_name": "Lead Time",
+        "value": 4.79,
+        "date": "2025-01-11"
+    },
+    {
+        "id": 86,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.49,
+        "date": "2025-01-11"
+    },
+    {
+        "id": 87,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.8,
+        "date": "2025-01-11"
+    },
+    {
+        "id": 88,
+        "kpi_name": "Order Accuracy",
+        "value": 98.39,
+        "date": "2025-01-11"
+    },
+    {
+        "id": 89,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.26,
+        "date": "2025-01-11"
+    },
+    {
+        "id": 90,
+        "kpi_name": "Return Rate",
+        "value": 1.92,
+        "date": "2025-01-11"
+    },
+    {
+        "id": 91,
+        "kpi_name": "Lead Time",
+        "value": 4.06,
+        "date": "2025-01-12"
+    },
+    {
+        "id": 92,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.29,
+        "date": "2025-01-12"
+    },
+    {
+        "id": 93,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.76,
+        "date": "2025-01-12"
+    },
+    {
+        "id": 94,
+        "kpi_name": "Order Accuracy",
+        "value": 97.43,
+        "date": "2025-01-12"
+    },
+    {
+        "id": 95,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.16,
+        "date": "2025-01-12"
+    },
+    {
+        "id": 96,
+        "kpi_name": "Return Rate",
+        "value": 1.83,
+        "date": "2025-01-12"
+    },
+    {
+        "id": 97,
+        "kpi_name": "Lead Time",
+        "value": 5.56,
+        "date": "2025-01-13"
+    },
+    {
+        "id": 98,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.04,
+        "date": "2025-01-13"
+    },
+    {
+        "id": 99,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.98,
+        "date": "2025-01-13"
+    },
+    {
+        "id": 100,
+        "kpi_name": "Order Accuracy",
+        "value": 99.0,
+        "date": "2025-01-13"
+    },
+    {
+        "id": 101,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.3,
+        "date": "2025-01-13"
+    },
+    {
+        "id": 102,
+        "kpi_name": "Return Rate",
+        "value": 1.25,
+        "date": "2025-01-13"
+    },
+    {
+        "id": 103,
+        "kpi_name": "Lead Time",
+        "value": 4.47,
+        "date": "2025-01-14"
+    },
+    {
+        "id": 104,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.78,
+        "date": "2025-01-14"
+    },
+    {
+        "id": 105,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.39,
+        "date": "2025-01-14"
+    },
+    {
+        "id": 106,
+        "kpi_name": "Order Accuracy",
+        "value": 97.23,
+        "date": "2025-01-14"
+    },
+    {
+        "id": 107,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.46,
+        "date": "2025-01-14"
+    },
+    {
+        "id": 108,
+        "kpi_name": "Return Rate",
+        "value": 1.15,
+        "date": "2025-01-14"
+    },
+    {
+        "id": 109,
+        "kpi_name": "Lead Time",
+        "value": 4.31,
+        "date": "2025-01-15"
+    },
+    {
+        "id": 110,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.21,
+        "date": "2025-01-15"
+    },
+    {
+        "id": 111,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.85,
+        "date": "2025-01-15"
+    },
+    {
+        "id": 112,
+        "kpi_name": "Order Accuracy",
+        "value": 98.64,
+        "date": "2025-01-15"
+    },
+    {
+        "id": 113,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.11,
+        "date": "2025-01-15"
+    },
+    {
+        "id": 114,
+        "kpi_name": "Return Rate",
+        "value": 2.35,
+        "date": "2025-01-15"
+    },
+    {
+        "id": 115,
+        "kpi_name": "Lead Time",
+        "value": 5.26,
+        "date": "2025-01-16"
+    },
+    {
+        "id": 116,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.83,
+        "date": "2025-01-16"
+    },
+    {
+        "id": 117,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.73,
+        "date": "2025-01-16"
+    },
+    {
+        "id": 118,
+        "kpi_name": "Order Accuracy",
+        "value": 98.36,
+        "date": "2025-01-16"
+    },
+    {
+        "id": 119,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.45,
+        "date": "2025-01-16"
+    },
+    {
+        "id": 120,
+        "kpi_name": "Return Rate",
+        "value": 2.41,
+        "date": "2025-01-16"
+    },
+    {
+        "id": 121,
+        "kpi_name": "Lead Time",
+        "value": 4.81,
+        "date": "2025-01-17"
+    },
+    {
+        "id": 122,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.5,
+        "date": "2025-01-17"
+    },
+    {
+        "id": 123,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.12,
+        "date": "2025-01-17"
+    },
+    {
+        "id": 124,
+        "kpi_name": "Order Accuracy",
+        "value": 97.72,
+        "date": "2025-01-17"
+    },
+    {
+        "id": 125,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.09,
+        "date": "2025-01-17"
+    },
+    {
+        "id": 126,
+        "kpi_name": "Return Rate",
+        "value": 2.47,
+        "date": "2025-01-17"
+    },
+    {
+        "id": 127,
+        "kpi_name": "Lead Time",
+        "value": 4.85,
+        "date": "2025-01-18"
+    },
+    {
+        "id": 128,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.42,
+        "date": "2025-01-18"
+    },
+    {
+        "id": 129,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.35,
+        "date": "2025-01-18"
+    },
+    {
+        "id": 130,
+        "kpi_name": "Order Accuracy",
+        "value": 97.38,
+        "date": "2025-01-18"
+    },
+    {
+        "id": 131,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.34,
+        "date": "2025-01-18"
+    },
+    {
+        "id": 132,
+        "kpi_name": "Return Rate",
+        "value": 1.3,
+        "date": "2025-01-18"
+    },
+    {
+        "id": 133,
+        "kpi_name": "Lead Time",
+        "value": 4.56,
+        "date": "2025-01-19"
+    },
+    {
+        "id": 134,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.85,
+        "date": "2025-01-19"
+    },
+    {
+        "id": 135,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.76,
+        "date": "2025-01-19"
+    },
+    {
+        "id": 136,
+        "kpi_name": "Order Accuracy",
+        "value": 97.46,
+        "date": "2025-01-19"
+    },
+    {
+        "id": 137,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.58,
+        "date": "2025-01-19"
+    },
+    {
+        "id": 138,
+        "kpi_name": "Return Rate",
+        "value": 1.55,
+        "date": "2025-01-19"
+    },
+    {
+        "id": 139,
+        "kpi_name": "Lead Time",
+        "value": 4.7,
+        "date": "2025-01-20"
+    },
+    {
+        "id": 140,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.29,
+        "date": "2025-01-20"
+    },
+    {
+        "id": 141,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.43,
+        "date": "2025-01-20"
+    },
+    {
+        "id": 142,
+        "kpi_name": "Order Accuracy",
+        "value": 99.32,
+        "date": "2025-01-20"
+    },
+    {
+        "id": 143,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.44,
+        "date": "2025-01-20"
+    },
+    {
+        "id": 144,
+        "kpi_name": "Return Rate",
+        "value": 2.11,
+        "date": "2025-01-20"
+    },
+    {
+        "id": 145,
+        "kpi_name": "Lead Time",
+        "value": 5.4,
+        "date": "2025-01-21"
+    },
+    {
+        "id": 146,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.09,
+        "date": "2025-01-21"
+    },
+    {
+        "id": 147,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.65,
+        "date": "2025-01-21"
+    },
+    {
+        "id": 148,
+        "kpi_name": "Order Accuracy",
+        "value": 99.03,
+        "date": "2025-01-21"
+    },
+    {
+        "id": 149,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.4,
+        "date": "2025-01-21"
+    },
+    {
+        "id": 150,
+        "kpi_name": "Return Rate",
+        "value": 1.34,
+        "date": "2025-01-21"
+    },
+    {
+        "id": 151,
+        "kpi_name": "Lead Time",
+        "value": 5.92,
+        "date": "2025-01-22"
+    },
+    {
+        "id": 152,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.6,
+        "date": "2025-01-22"
+    },
+    {
+        "id": 153,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.52,
+        "date": "2025-01-22"
+    },
+    {
+        "id": 154,
+        "kpi_name": "Order Accuracy",
+        "value": 99.47,
+        "date": "2025-01-22"
+    },
+    {
+        "id": 155,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.83,
+        "date": "2025-01-22"
+    },
+    {
+        "id": 156,
+        "kpi_name": "Return Rate",
+        "value": 2.27,
+        "date": "2025-01-22"
+    },
+    {
+        "id": 157,
+        "kpi_name": "Lead Time",
+        "value": 5.57,
+        "date": "2025-01-23"
+    },
+    {
+        "id": 158,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.39,
+        "date": "2025-01-23"
+    },
+    {
+        "id": 159,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.51,
+        "date": "2025-01-23"
+    },
+    {
+        "id": 160,
+        "kpi_name": "Order Accuracy",
+        "value": 99.53,
+        "date": "2025-01-23"
+    },
+    {
+        "id": 161,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.56,
+        "date": "2025-01-23"
+    },
+    {
+        "id": 162,
+        "kpi_name": "Return Rate",
+        "value": 1.71,
+        "date": "2025-01-23"
+    },
+    {
+        "id": 163,
+        "kpi_name": "Lead Time",
+        "value": 5.97,
+        "date": "2025-01-24"
+    },
+    {
+        "id": 164,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.96,
+        "date": "2025-01-24"
+    },
+    {
+        "id": 165,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.25,
+        "date": "2025-01-24"
+    },
+    {
+        "id": 166,
+        "kpi_name": "Order Accuracy",
+        "value": 99.94,
+        "date": "2025-01-24"
+    },
+    {
+        "id": 167,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.73,
+        "date": "2025-01-24"
+    },
+    {
+        "id": 168,
+        "kpi_name": "Return Rate",
+        "value": 2.4,
+        "date": "2025-01-24"
+    },
+    {
+        "id": 169,
+        "kpi_name": "Lead Time",
+        "value": 5.94,
+        "date": "2025-01-25"
+    },
+    {
+        "id": 170,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.85,
+        "date": "2025-01-25"
+    },
+    {
+        "id": 171,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.22,
+        "date": "2025-01-25"
+    },
+    {
+        "id": 172,
+        "kpi_name": "Order Accuracy",
+        "value": 98.53,
+        "date": "2025-01-25"
+    },
+    {
+        "id": 173,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.0,
+        "date": "2025-01-25"
+    },
+    {
+        "id": 174,
+        "kpi_name": "Return Rate",
+        "value": 1.88,
+        "date": "2025-01-25"
+    },
+    {
+        "id": 175,
+        "kpi_name": "Lead Time",
+        "value": 4.51,
+        "date": "2025-01-26"
+    },
+    {
+        "id": 176,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.67,
+        "date": "2025-01-26"
+    },
+    {
+        "id": 177,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.73,
+        "date": "2025-01-26"
+    },
+    {
+        "id": 178,
+        "kpi_name": "Order Accuracy",
+        "value": 99.43,
+        "date": "2025-01-26"
+    },
+    {
+        "id": 179,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.5,
+        "date": "2025-01-26"
+    },
+    {
+        "id": 180,
+        "kpi_name": "Return Rate",
+        "value": 1.36,
+        "date": "2025-01-26"
+    },
+    {
+        "id": 181,
+        "kpi_name": "Lead Time",
+        "value": 5.38,
+        "date": "2025-01-27"
+    },
+    {
+        "id": 182,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.82,
+        "date": "2025-01-27"
+    },
+    {
+        "id": 183,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.78,
+        "date": "2025-01-27"
+    },
+    {
+        "id": 184,
+        "kpi_name": "Order Accuracy",
+        "value": 97.76,
+        "date": "2025-01-27"
+    },
+    {
+        "id": 185,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.89,
+        "date": "2025-01-27"
+    },
+    {
+        "id": 186,
+        "kpi_name": "Return Rate",
+        "value": 1.43,
+        "date": "2025-01-27"
+    },
+    {
+        "id": 187,
+        "kpi_name": "Lead Time",
+        "value": 4.8,
+        "date": "2025-01-28"
+    },
+    {
+        "id": 188,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.71,
+        "date": "2025-01-28"
+    },
+    {
+        "id": 189,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.79,
+        "date": "2025-01-28"
+    },
+    {
+        "id": 190,
+        "kpi_name": "Order Accuracy",
+        "value": 98.8,
+        "date": "2025-01-28"
+    },
+    {
+        "id": 191,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.04,
+        "date": "2025-01-28"
+    },
+    {
+        "id": 192,
+        "kpi_name": "Return Rate",
+        "value": 2.2,
+        "date": "2025-01-28"
+    },
+    {
+        "id": 193,
+        "kpi_name": "Lead Time",
+        "value": 5.45,
+        "date": "2025-01-29"
+    },
+    {
+        "id": 194,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.29,
+        "date": "2025-01-29"
+    },
+    {
+        "id": 195,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.55,
+        "date": "2025-01-29"
+    },
+    {
+        "id": 196,
+        "kpi_name": "Order Accuracy",
+        "value": 97.86,
+        "date": "2025-01-29"
+    },
+    {
+        "id": 197,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.82,
+        "date": "2025-01-29"
+    },
+    {
+        "id": 198,
+        "kpi_name": "Return Rate",
+        "value": 2.38,
+        "date": "2025-01-29"
+    },
+    {
+        "id": 199,
+        "kpi_name": "Lead Time",
+        "value": 4.12,
+        "date": "2025-01-30"
+    },
+    {
+        "id": 200,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.54,
+        "date": "2025-01-30"
+    },
+    {
+        "id": 201,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.51,
+        "date": "2025-01-30"
+    },
+    {
+        "id": 202,
+        "kpi_name": "Order Accuracy",
+        "value": 98.61,
+        "date": "2025-01-30"
+    },
+    {
+        "id": 203,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.13,
+        "date": "2025-01-30"
+    },
+    {
+        "id": 204,
+        "kpi_name": "Return Rate",
+        "value": 1.96,
+        "date": "2025-01-30"
+    },
+    {
+        "id": 205,
+        "kpi_name": "Lead Time",
+        "value": 4.87,
+        "date": "2025-01-31"
+    },
+    {
+        "id": 206,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.65,
+        "date": "2025-01-31"
+    },
+    {
+        "id": 207,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.52,
+        "date": "2025-01-31"
+    },
+    {
+        "id": 208,
+        "kpi_name": "Order Accuracy",
+        "value": 99.27,
+        "date": "2025-01-31"
+    },
+    {
+        "id": 209,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.76,
+        "date": "2025-01-31"
+    },
+    {
+        "id": 210,
+        "kpi_name": "Return Rate",
+        "value": 2.03,
+        "date": "2025-01-31"
+    },
+    {
+        "id": 211,
+        "kpi_name": "Lead Time",
+        "value": 4.74,
+        "date": "2025-02-01"
+    },
+    {
+        "id": 212,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.29,
+        "date": "2025-02-01"
+    },
+    {
+        "id": 213,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.51,
+        "date": "2025-02-01"
+    },
+    {
+        "id": 214,
+        "kpi_name": "Order Accuracy",
+        "value": 99.19,
+        "date": "2025-02-01"
+    },
+    {
+        "id": 215,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.09,
+        "date": "2025-02-01"
+    },
+    {
+        "id": 216,
+        "kpi_name": "Return Rate",
+        "value": 1.02,
+        "date": "2025-02-01"
+    },
+    {
+        "id": 217,
+        "kpi_name": "Lead Time",
+        "value": 5.06,
+        "date": "2025-02-02"
+    },
+    {
+        "id": 218,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.56,
+        "date": "2025-02-02"
+    },
+    {
+        "id": 219,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.61,
+        "date": "2025-02-02"
+    },
+    {
+        "id": 220,
+        "kpi_name": "Order Accuracy",
+        "value": 98.44,
+        "date": "2025-02-02"
+    },
+    {
+        "id": 221,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.28,
+        "date": "2025-02-02"
+    },
+    {
+        "id": 222,
+        "kpi_name": "Return Rate",
+        "value": 1.25,
+        "date": "2025-02-02"
+    },
+    {
+        "id": 223,
+        "kpi_name": "Lead Time",
+        "value": 5.65,
+        "date": "2025-02-03"
+    },
+    {
+        "id": 224,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.77,
+        "date": "2025-02-03"
+    },
+    {
+        "id": 225,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.6,
+        "date": "2025-02-03"
+    },
+    {
+        "id": 226,
+        "kpi_name": "Order Accuracy",
+        "value": 99.92,
+        "date": "2025-02-03"
+    },
+    {
+        "id": 227,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.73,
+        "date": "2025-02-03"
+    },
+    {
+        "id": 228,
+        "kpi_name": "Return Rate",
+        "value": 1.15,
+        "date": "2025-02-03"
+    },
+    {
+        "id": 229,
+        "kpi_name": "Lead Time",
+        "value": 5.35,
+        "date": "2025-02-04"
+    },
+    {
+        "id": 230,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.62,
+        "date": "2025-02-04"
+    },
+    {
+        "id": 231,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.17,
+        "date": "2025-02-04"
+    },
+    {
+        "id": 232,
+        "kpi_name": "Order Accuracy",
+        "value": 99.12,
+        "date": "2025-02-04"
+    },
+    {
+        "id": 233,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.24,
+        "date": "2025-02-04"
+    },
+    {
+        "id": 234,
+        "kpi_name": "Return Rate",
+        "value": 1.42,
+        "date": "2025-02-04"
+    },
+    {
+        "id": 235,
+        "kpi_name": "Lead Time",
+        "value": 5.12,
+        "date": "2025-02-05"
+    },
+    {
+        "id": 236,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.59,
+        "date": "2025-02-05"
+    },
+    {
+        "id": 237,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.93,
+        "date": "2025-02-05"
+    },
+    {
+        "id": 238,
+        "kpi_name": "Order Accuracy",
+        "value": 98.71,
+        "date": "2025-02-05"
+    },
+    {
+        "id": 239,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.08,
+        "date": "2025-02-05"
+    },
+    {
+        "id": 240,
+        "kpi_name": "Return Rate",
+        "value": 1.67,
+        "date": "2025-02-05"
+    },
+    {
+        "id": 241,
+        "kpi_name": "Lead Time",
+        "value": 4.07,
+        "date": "2025-02-06"
+    },
+    {
+        "id": 242,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.9,
+        "date": "2025-02-06"
+    },
+    {
+        "id": 243,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.47,
+        "date": "2025-02-06"
+    },
+    {
+        "id": 244,
+        "kpi_name": "Order Accuracy",
+        "value": 97.53,
+        "date": "2025-02-06"
+    },
+    {
+        "id": 245,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.26,
+        "date": "2025-02-06"
+    },
+    {
+        "id": 246,
+        "kpi_name": "Return Rate",
+        "value": 2.18,
+        "date": "2025-02-06"
+    },
+    {
+        "id": 247,
+        "kpi_name": "Lead Time",
+        "value": 4.89,
+        "date": "2025-02-07"
+    },
+    {
+        "id": 248,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.1,
+        "date": "2025-02-07"
+    },
+    {
+        "id": 249,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.8,
+        "date": "2025-02-07"
+    },
+    {
+        "id": 250,
+        "kpi_name": "Order Accuracy",
+        "value": 97.42,
+        "date": "2025-02-07"
+    },
+    {
+        "id": 251,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.86,
+        "date": "2025-02-07"
+    },
+    {
+        "id": 252,
+        "kpi_name": "Return Rate",
+        "value": 2.18,
+        "date": "2025-02-07"
+    },
+    {
+        "id": 253,
+        "kpi_name": "Lead Time",
+        "value": 4.7,
+        "date": "2025-02-08"
+    },
+    {
+        "id": 254,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.24,
+        "date": "2025-02-08"
+    },
+    {
+        "id": 255,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.63,
+        "date": "2025-02-08"
+    },
+    {
+        "id": 256,
+        "kpi_name": "Order Accuracy",
+        "value": 99.94,
+        "date": "2025-02-08"
+    },
+    {
+        "id": 257,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.31,
+        "date": "2025-02-08"
+    },
+    {
+        "id": 258,
+        "kpi_name": "Return Rate",
+        "value": 1.66,
+        "date": "2025-02-08"
+    },
+    {
+        "id": 259,
+        "kpi_name": "Lead Time",
+        "value": 4.53,
+        "date": "2025-02-09"
+    },
+    {
+        "id": 260,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.93,
+        "date": "2025-02-09"
+    },
+    {
+        "id": 261,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.98,
+        "date": "2025-02-09"
+    },
+    {
+        "id": 262,
+        "kpi_name": "Order Accuracy",
+        "value": 99.85,
+        "date": "2025-02-09"
+    },
+    {
+        "id": 263,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.45,
+        "date": "2025-02-09"
+    },
+    {
+        "id": 264,
+        "kpi_name": "Return Rate",
+        "value": 1.64,
+        "date": "2025-02-09"
+    },
+    {
+        "id": 265,
+        "kpi_name": "Lead Time",
+        "value": 5.84,
+        "date": "2025-02-10"
+    },
+    {
+        "id": 266,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.36,
+        "date": "2025-02-10"
+    },
+    {
+        "id": 267,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.77,
+        "date": "2025-02-10"
+    },
+    {
+        "id": 268,
+        "kpi_name": "Order Accuracy",
+        "value": 99.57,
+        "date": "2025-02-10"
+    },
+    {
+        "id": 269,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.65,
+        "date": "2025-02-10"
+    },
+    {
+        "id": 270,
+        "kpi_name": "Return Rate",
+        "value": 2.15,
+        "date": "2025-02-10"
+    },
+    {
+        "id": 271,
+        "kpi_name": "Lead Time",
+        "value": 5.93,
+        "date": "2025-02-11"
+    },
+    {
+        "id": 272,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.4,
+        "date": "2025-02-11"
+    },
+    {
+        "id": 273,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.36,
+        "date": "2025-02-11"
+    },
+    {
+        "id": 274,
+        "kpi_name": "Order Accuracy",
+        "value": 97.38,
+        "date": "2025-02-11"
+    },
+    {
+        "id": 275,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.75,
+        "date": "2025-02-11"
+    },
+    {
+        "id": 276,
+        "kpi_name": "Return Rate",
+        "value": 2.4,
+        "date": "2025-02-11"
+    },
+    {
+        "id": 277,
+        "kpi_name": "Lead Time",
+        "value": 5.64,
+        "date": "2025-02-12"
+    },
+    {
+        "id": 278,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.87,
+        "date": "2025-02-12"
+    },
+    {
+        "id": 279,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.39,
+        "date": "2025-02-12"
+    },
+    {
+        "id": 280,
+        "kpi_name": "Order Accuracy",
+        "value": 99.48,
+        "date": "2025-02-12"
+    },
+    {
+        "id": 281,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.11,
+        "date": "2025-02-12"
+    },
+    {
+        "id": 282,
+        "kpi_name": "Return Rate",
+        "value": 2.32,
+        "date": "2025-02-12"
+    },
+    {
+        "id": 283,
+        "kpi_name": "Lead Time",
+        "value": 5.83,
+        "date": "2025-02-13"
+    },
+    {
+        "id": 284,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.28,
+        "date": "2025-02-13"
+    },
+    {
+        "id": 285,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.78,
+        "date": "2025-02-13"
+    },
+    {
+        "id": 286,
+        "kpi_name": "Order Accuracy",
+        "value": 99.33,
+        "date": "2025-02-13"
+    },
+    {
+        "id": 287,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.4,
+        "date": "2025-02-13"
+    },
+    {
+        "id": 288,
+        "kpi_name": "Return Rate",
+        "value": 2.05,
+        "date": "2025-02-13"
+    },
+    {
+        "id": 289,
+        "kpi_name": "Lead Time",
+        "value": 5.33,
+        "date": "2025-02-14"
+    },
+    {
+        "id": 290,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.76,
+        "date": "2025-02-14"
+    },
+    {
+        "id": 291,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.08,
+        "date": "2025-02-14"
+    },
+    {
+        "id": 292,
+        "kpi_name": "Order Accuracy",
+        "value": 99.87,
+        "date": "2025-02-14"
+    },
+    {
+        "id": 293,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.42,
+        "date": "2025-02-14"
+    },
+    {
+        "id": 294,
+        "kpi_name": "Return Rate",
+        "value": 1.81,
+        "date": "2025-02-14"
+    },
+    {
+        "id": 295,
+        "kpi_name": "Lead Time",
+        "value": 4.39,
+        "date": "2025-02-15"
+    },
+    {
+        "id": 296,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.38,
+        "date": "2025-02-15"
+    },
+    {
+        "id": 297,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.71,
+        "date": "2025-02-15"
+    },
+    {
+        "id": 298,
+        "kpi_name": "Order Accuracy",
+        "value": 99.04,
+        "date": "2025-02-15"
+    },
+    {
+        "id": 299,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.0,
+        "date": "2025-02-15"
+    },
+    {
+        "id": 300,
+        "kpi_name": "Return Rate",
+        "value": 1.03,
+        "date": "2025-02-15"
+    },
+    {
+        "id": 301,
+        "kpi_name": "Lead Time",
+        "value": 4.77,
+        "date": "2025-02-16"
+    },
+    {
+        "id": 302,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.24,
+        "date": "2025-02-16"
+    },
+    {
+        "id": 303,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.92,
+        "date": "2025-02-16"
+    },
+    {
+        "id": 304,
+        "kpi_name": "Order Accuracy",
+        "value": 97.69,
+        "date": "2025-02-16"
+    },
+    {
+        "id": 305,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.33,
+        "date": "2025-02-16"
+    },
+    {
+        "id": 306,
+        "kpi_name": "Return Rate",
+        "value": 2.27,
+        "date": "2025-02-16"
+    },
+    {
+        "id": 307,
+        "kpi_name": "Lead Time",
+        "value": 4.09,
+        "date": "2025-02-17"
+    },
+    {
+        "id": 308,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.71,
+        "date": "2025-02-17"
+    },
+    {
+        "id": 309,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.44,
+        "date": "2025-02-17"
+    },
+    {
+        "id": 310,
+        "kpi_name": "Order Accuracy",
+        "value": 99.0,
+        "date": "2025-02-17"
+    },
+    {
+        "id": 311,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.69,
+        "date": "2025-02-17"
+    },
+    {
+        "id": 312,
+        "kpi_name": "Return Rate",
+        "value": 1.57,
+        "date": "2025-02-17"
+    },
+    {
+        "id": 313,
+        "kpi_name": "Lead Time",
+        "value": 4.7,
+        "date": "2025-02-18"
+    },
+    {
+        "id": 314,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.78,
+        "date": "2025-02-18"
+    },
+    {
+        "id": 315,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.88,
+        "date": "2025-02-18"
+    },
+    {
+        "id": 316,
+        "kpi_name": "Order Accuracy",
+        "value": 99.75,
+        "date": "2025-02-18"
+    },
+    {
+        "id": 317,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.57,
+        "date": "2025-02-18"
+    },
+    {
+        "id": 318,
+        "kpi_name": "Return Rate",
+        "value": 1.64,
+        "date": "2025-02-18"
+    },
+    {
+        "id": 319,
+        "kpi_name": "Lead Time",
+        "value": 5.16,
+        "date": "2025-02-19"
+    },
+    {
+        "id": 320,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.93,
+        "date": "2025-02-19"
+    },
+    {
+        "id": 321,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.38,
+        "date": "2025-02-19"
+    },
+    {
+        "id": 322,
+        "kpi_name": "Order Accuracy",
+        "value": 98.08,
+        "date": "2025-02-19"
+    },
+    {
+        "id": 323,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.59,
+        "date": "2025-02-19"
+    },
+    {
+        "id": 324,
+        "kpi_name": "Return Rate",
+        "value": 1.7,
+        "date": "2025-02-19"
+    },
+    {
+        "id": 325,
+        "kpi_name": "Lead Time",
+        "value": 5.97,
+        "date": "2025-02-20"
+    },
+    {
+        "id": 326,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.53,
+        "date": "2025-02-20"
+    },
+    {
+        "id": 327,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.05,
+        "date": "2025-02-20"
+    },
+    {
+        "id": 328,
+        "kpi_name": "Order Accuracy",
+        "value": 98.37,
+        "date": "2025-02-20"
+    },
+    {
+        "id": 329,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.49,
+        "date": "2025-02-20"
+    },
+    {
+        "id": 330,
+        "kpi_name": "Return Rate",
+        "value": 1.13,
+        "date": "2025-02-20"
+    },
+    {
+        "id": 331,
+        "kpi_name": "Lead Time",
+        "value": 5.0,
+        "date": "2025-02-21"
+    },
+    {
+        "id": 332,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.44,
+        "date": "2025-02-21"
+    },
+    {
+        "id": 333,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.95,
+        "date": "2025-02-21"
+    },
+    {
+        "id": 334,
+        "kpi_name": "Order Accuracy",
+        "value": 98.81,
+        "date": "2025-02-21"
+    },
+    {
+        "id": 335,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.66,
+        "date": "2025-02-21"
+    },
+    {
+        "id": 336,
+        "kpi_name": "Return Rate",
+        "value": 1.11,
+        "date": "2025-02-21"
+    },
+    {
+        "id": 337,
+        "kpi_name": "Lead Time",
+        "value": 4.81,
+        "date": "2025-02-22"
+    },
+    {
+        "id": 338,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.29,
+        "date": "2025-02-22"
+    },
+    {
+        "id": 339,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.44,
+        "date": "2025-02-22"
+    },
+    {
+        "id": 340,
+        "kpi_name": "Order Accuracy",
+        "value": 97.05,
+        "date": "2025-02-22"
+    },
+    {
+        "id": 341,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.63,
+        "date": "2025-02-22"
+    },
+    {
+        "id": 342,
+        "kpi_name": "Return Rate",
+        "value": 2.34,
+        "date": "2025-02-22"
+    },
+    {
+        "id": 343,
+        "kpi_name": "Lead Time",
+        "value": 5.12,
+        "date": "2025-02-23"
+    },
+    {
+        "id": 344,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.68,
+        "date": "2025-02-23"
+    },
+    {
+        "id": 345,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.65,
+        "date": "2025-02-23"
+    },
+    {
+        "id": 346,
+        "kpi_name": "Order Accuracy",
+        "value": 98.14,
+        "date": "2025-02-23"
+    },
+    {
+        "id": 347,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.87,
+        "date": "2025-02-23"
+    },
+    {
+        "id": 348,
+        "kpi_name": "Return Rate",
+        "value": 1.73,
+        "date": "2025-02-23"
+    },
+    {
+        "id": 349,
+        "kpi_name": "Lead Time",
+        "value": 5.59,
+        "date": "2025-02-24"
+    },
+    {
+        "id": 350,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.88,
+        "date": "2025-02-24"
+    },
+    {
+        "id": 351,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.57,
+        "date": "2025-02-24"
+    },
+    {
+        "id": 352,
+        "kpi_name": "Order Accuracy",
+        "value": 98.96,
+        "date": "2025-02-24"
+    },
+    {
+        "id": 353,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.34,
+        "date": "2025-02-24"
+    },
+    {
+        "id": 354,
+        "kpi_name": "Return Rate",
+        "value": 1.69,
+        "date": "2025-02-24"
+    },
+    {
+        "id": 355,
+        "kpi_name": "Lead Time",
+        "value": 5.65,
+        "date": "2025-02-25"
+    },
+    {
+        "id": 356,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.84,
+        "date": "2025-02-25"
+    },
+    {
+        "id": 357,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.6,
+        "date": "2025-02-25"
+    },
+    {
+        "id": 358,
+        "kpi_name": "Order Accuracy",
+        "value": 97.09,
+        "date": "2025-02-25"
+    },
+    {
+        "id": 359,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.59,
+        "date": "2025-02-25"
+    },
+    {
+        "id": 360,
+        "kpi_name": "Return Rate",
+        "value": 1.29,
+        "date": "2025-02-25"
+    },
+    {
+        "id": 361,
+        "kpi_name": "Lead Time",
+        "value": 5.72,
+        "date": "2025-02-26"
+    },
+    {
+        "id": 362,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.64,
+        "date": "2025-02-26"
+    },
+    {
+        "id": 363,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.68,
+        "date": "2025-02-26"
+    },
+    {
+        "id": 364,
+        "kpi_name": "Order Accuracy",
+        "value": 99.07,
+        "date": "2025-02-26"
+    },
+    {
+        "id": 365,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.49,
+        "date": "2025-02-26"
+    },
+    {
+        "id": 366,
+        "kpi_name": "Return Rate",
+        "value": 2.32,
+        "date": "2025-02-26"
+    },
+    {
+        "id": 367,
+        "kpi_name": "Lead Time",
+        "value": 5.12,
+        "date": "2025-02-27"
+    },
+    {
+        "id": 368,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.03,
+        "date": "2025-02-27"
+    },
+    {
+        "id": 369,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.83,
+        "date": "2025-02-27"
+    },
+    {
+        "id": 370,
+        "kpi_name": "Order Accuracy",
+        "value": 98.64,
+        "date": "2025-02-27"
+    },
+    {
+        "id": 371,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.24,
+        "date": "2025-02-27"
+    },
+    {
+        "id": 372,
+        "kpi_name": "Return Rate",
+        "value": 1.12,
+        "date": "2025-02-27"
+    },
+    {
+        "id": 373,
+        "kpi_name": "Lead Time",
+        "value": 4.06,
+        "date": "2025-02-28"
+    },
+    {
+        "id": 374,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.27,
+        "date": "2025-02-28"
+    },
+    {
+        "id": 375,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.91,
+        "date": "2025-02-28"
+    },
+    {
+        "id": 376,
+        "kpi_name": "Order Accuracy",
+        "value": 98.61,
+        "date": "2025-02-28"
+    },
+    {
+        "id": 377,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.66,
+        "date": "2025-02-28"
+    },
+    {
+        "id": 378,
+        "kpi_name": "Return Rate",
+        "value": 1.01,
+        "date": "2025-02-28"
+    },
+    {
+        "id": 379,
+        "kpi_name": "Lead Time",
+        "value": 4.56,
+        "date": "2025-03-01"
+    },
+    {
+        "id": 380,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.72,
+        "date": "2025-03-01"
+    },
+    {
+        "id": 381,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.79,
+        "date": "2025-03-01"
+    },
+    {
+        "id": 382,
+        "kpi_name": "Order Accuracy",
+        "value": 99.28,
+        "date": "2025-03-01"
+    },
+    {
+        "id": 383,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.42,
+        "date": "2025-03-01"
+    },
+    {
+        "id": 384,
+        "kpi_name": "Return Rate",
+        "value": 1.78,
+        "date": "2025-03-01"
+    },
+    {
+        "id": 385,
+        "kpi_name": "Lead Time",
+        "value": 4.13,
+        "date": "2025-03-02"
+    },
+    {
+        "id": 386,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.84,
+        "date": "2025-03-02"
+    },
+    {
+        "id": 387,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.41,
+        "date": "2025-03-02"
+    },
+    {
+        "id": 388,
+        "kpi_name": "Order Accuracy",
+        "value": 97.57,
+        "date": "2025-03-02"
+    },
+    {
+        "id": 389,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.18,
+        "date": "2025-03-02"
+    },
+    {
+        "id": 390,
+        "kpi_name": "Return Rate",
+        "value": 1.07,
+        "date": "2025-03-02"
+    },
+    {
+        "id": 391,
+        "kpi_name": "Lead Time",
+        "value": 4.23,
+        "date": "2025-03-03"
+    },
+    {
+        "id": 392,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.61,
+        "date": "2025-03-03"
+    },
+    {
+        "id": 393,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.42,
+        "date": "2025-03-03"
+    },
+    {
+        "id": 394,
+        "kpi_name": "Order Accuracy",
+        "value": 98.38,
+        "date": "2025-03-03"
+    },
+    {
+        "id": 395,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.95,
+        "date": "2025-03-03"
+    },
+    {
+        "id": 396,
+        "kpi_name": "Return Rate",
+        "value": 2.0,
+        "date": "2025-03-03"
+    },
+    {
+        "id": 397,
+        "kpi_name": "Lead Time",
+        "value": 5.09,
+        "date": "2025-03-04"
+    },
+    {
+        "id": 398,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.15,
+        "date": "2025-03-04"
+    },
+    {
+        "id": 399,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.64,
+        "date": "2025-03-04"
+    },
+    {
+        "id": 400,
+        "kpi_name": "Order Accuracy",
+        "value": 97.71,
+        "date": "2025-03-04"
+    },
+    {
+        "id": 401,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.54,
+        "date": "2025-03-04"
+    },
+    {
+        "id": 402,
+        "kpi_name": "Return Rate",
+        "value": 2.01,
+        "date": "2025-03-04"
+    },
+    {
+        "id": 403,
+        "kpi_name": "Lead Time",
+        "value": 5.06,
+        "date": "2025-03-05"
+    },
+    {
+        "id": 404,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.77,
+        "date": "2025-03-05"
+    },
+    {
+        "id": 405,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.56,
+        "date": "2025-03-05"
+    },
+    {
+        "id": 406,
+        "kpi_name": "Order Accuracy",
+        "value": 97.08,
+        "date": "2025-03-05"
+    },
+    {
+        "id": 407,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.93,
+        "date": "2025-03-05"
+    },
+    {
+        "id": 408,
+        "kpi_name": "Return Rate",
+        "value": 1.71,
+        "date": "2025-03-05"
+    },
+    {
+        "id": 409,
+        "kpi_name": "Lead Time",
+        "value": 5.89,
+        "date": "2025-03-06"
+    },
+    {
+        "id": 410,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.02,
+        "date": "2025-03-06"
+    },
+    {
+        "id": 411,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.66,
+        "date": "2025-03-06"
+    },
+    {
+        "id": 412,
+        "kpi_name": "Order Accuracy",
+        "value": 97.72,
+        "date": "2025-03-06"
+    },
+    {
+        "id": 413,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.25,
+        "date": "2025-03-06"
+    },
+    {
+        "id": 414,
+        "kpi_name": "Return Rate",
+        "value": 1.69,
+        "date": "2025-03-06"
+    },
+    {
+        "id": 415,
+        "kpi_name": "Lead Time",
+        "value": 4.31,
+        "date": "2025-03-07"
+    },
+    {
+        "id": 416,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.06,
+        "date": "2025-03-07"
+    },
+    {
+        "id": 417,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.24,
+        "date": "2025-03-07"
+    },
+    {
+        "id": 418,
+        "kpi_name": "Order Accuracy",
+        "value": 97.96,
+        "date": "2025-03-07"
+    },
+    {
+        "id": 419,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.83,
+        "date": "2025-03-07"
+    },
+    {
+        "id": 420,
+        "kpi_name": "Return Rate",
+        "value": 1.02,
+        "date": "2025-03-07"
+    },
+    {
+        "id": 421,
+        "kpi_name": "Lead Time",
+        "value": 4.11,
+        "date": "2025-03-08"
+    },
+    {
+        "id": 422,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.88,
+        "date": "2025-03-08"
+    },
+    {
+        "id": 423,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.29,
+        "date": "2025-03-08"
+    },
+    {
+        "id": 424,
+        "kpi_name": "Order Accuracy",
+        "value": 98.31,
+        "date": "2025-03-08"
+    },
+    {
+        "id": 425,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.78,
+        "date": "2025-03-08"
+    },
+    {
+        "id": 426,
+        "kpi_name": "Return Rate",
+        "value": 1.79,
+        "date": "2025-03-08"
+    },
+    {
+        "id": 427,
+        "kpi_name": "Lead Time",
+        "value": 4.92,
+        "date": "2025-03-09"
+    },
+    {
+        "id": 428,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.63,
+        "date": "2025-03-09"
+    },
+    {
+        "id": 429,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.97,
+        "date": "2025-03-09"
+    },
+    {
+        "id": 430,
+        "kpi_name": "Order Accuracy",
+        "value": 99.82,
+        "date": "2025-03-09"
+    },
+    {
+        "id": 431,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.2,
+        "date": "2025-03-09"
+    },
+    {
+        "id": 432,
+        "kpi_name": "Return Rate",
+        "value": 2.14,
+        "date": "2025-03-09"
+    },
+    {
+        "id": 433,
+        "kpi_name": "Lead Time",
+        "value": 5.68,
+        "date": "2025-03-10"
+    },
+    {
+        "id": 434,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.47,
+        "date": "2025-03-10"
+    },
+    {
+        "id": 435,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.94,
+        "date": "2025-03-10"
+    },
+    {
+        "id": 436,
+        "kpi_name": "Order Accuracy",
+        "value": 97.53,
+        "date": "2025-03-10"
+    },
+    {
+        "id": 437,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.12,
+        "date": "2025-03-10"
+    },
+    {
+        "id": 438,
+        "kpi_name": "Return Rate",
+        "value": 1.64,
+        "date": "2025-03-10"
+    },
+    {
+        "id": 439,
+        "kpi_name": "Lead Time",
+        "value": 5.98,
+        "date": "2025-03-11"
+    },
+    {
+        "id": 440,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.79,
+        "date": "2025-03-11"
+    },
+    {
+        "id": 441,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.99,
+        "date": "2025-03-11"
+    },
+    {
+        "id": 442,
+        "kpi_name": "Order Accuracy",
+        "value": 98.97,
+        "date": "2025-03-11"
+    },
+    {
+        "id": 443,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.46,
+        "date": "2025-03-11"
+    },
+    {
+        "id": 444,
+        "kpi_name": "Return Rate",
+        "value": 1.15,
+        "date": "2025-03-11"
+    },
+    {
+        "id": 445,
+        "kpi_name": "Lead Time",
+        "value": 5.32,
+        "date": "2025-03-12"
+    },
+    {
+        "id": 446,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.03,
+        "date": "2025-03-12"
+    },
+    {
+        "id": 447,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.2,
+        "date": "2025-03-12"
+    },
+    {
+        "id": 448,
+        "kpi_name": "Order Accuracy",
+        "value": 97.51,
+        "date": "2025-03-12"
+    },
+    {
+        "id": 449,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.4,
+        "date": "2025-03-12"
+    },
+    {
+        "id": 450,
+        "kpi_name": "Return Rate",
+        "value": 1.54,
+        "date": "2025-03-12"
+    },
+    {
+        "id": 451,
+        "kpi_name": "Lead Time",
+        "value": 5.9,
+        "date": "2025-03-13"
+    },
+    {
+        "id": 452,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.62,
+        "date": "2025-03-13"
+    },
+    {
+        "id": 453,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.85,
+        "date": "2025-03-13"
+    },
+    {
+        "id": 454,
+        "kpi_name": "Order Accuracy",
+        "value": 99.65,
+        "date": "2025-03-13"
+    },
+    {
+        "id": 455,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.91,
+        "date": "2025-03-13"
+    },
+    {
+        "id": 456,
+        "kpi_name": "Return Rate",
+        "value": 1.49,
+        "date": "2025-03-13"
+    },
+    {
+        "id": 457,
+        "kpi_name": "Lead Time",
+        "value": 4.32,
+        "date": "2025-03-14"
+    },
+    {
+        "id": 458,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.79,
+        "date": "2025-03-14"
+    },
+    {
+        "id": 459,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.26,
+        "date": "2025-03-14"
+    },
+    {
+        "id": 460,
+        "kpi_name": "Order Accuracy",
+        "value": 98.53,
+        "date": "2025-03-14"
+    },
+    {
+        "id": 461,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.56,
+        "date": "2025-03-14"
+    },
+    {
+        "id": 462,
+        "kpi_name": "Return Rate",
+        "value": 1.48,
+        "date": "2025-03-14"
+    },
+    {
+        "id": 463,
+        "kpi_name": "Lead Time",
+        "value": 5.6,
+        "date": "2025-03-15"
+    },
+    {
+        "id": 464,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.08,
+        "date": "2025-03-15"
+    },
+    {
+        "id": 465,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.3,
+        "date": "2025-03-15"
+    },
+    {
+        "id": 466,
+        "kpi_name": "Order Accuracy",
+        "value": 98.14,
+        "date": "2025-03-15"
+    },
+    {
+        "id": 467,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.2,
+        "date": "2025-03-15"
+    },
+    {
+        "id": 468,
+        "kpi_name": "Return Rate",
+        "value": 1.81,
+        "date": "2025-03-15"
+    },
+    {
+        "id": 469,
+        "kpi_name": "Lead Time",
+        "value": 5.74,
+        "date": "2025-03-16"
+    },
+    {
+        "id": 470,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.19,
+        "date": "2025-03-16"
+    },
+    {
+        "id": 471,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.41,
+        "date": "2025-03-16"
+    },
+    {
+        "id": 472,
+        "kpi_name": "Order Accuracy",
+        "value": 98.54,
+        "date": "2025-03-16"
+    },
+    {
+        "id": 473,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.21,
+        "date": "2025-03-16"
+    },
+    {
+        "id": 474,
+        "kpi_name": "Return Rate",
+        "value": 1.71,
+        "date": "2025-03-16"
+    },
+    {
+        "id": 475,
+        "kpi_name": "Lead Time",
+        "value": 5.88,
+        "date": "2025-03-17"
+    },
+    {
+        "id": 476,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.07,
+        "date": "2025-03-17"
+    },
+    {
+        "id": 477,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.57,
+        "date": "2025-03-17"
+    },
+    {
+        "id": 478,
+        "kpi_name": "Order Accuracy",
+        "value": 98.55,
+        "date": "2025-03-17"
+    },
+    {
+        "id": 479,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.18,
+        "date": "2025-03-17"
+    },
+    {
+        "id": 480,
+        "kpi_name": "Return Rate",
+        "value": 2.3,
+        "date": "2025-03-17"
+    },
+    {
+        "id": 481,
+        "kpi_name": "Lead Time",
+        "value": 4.89,
+        "date": "2025-03-18"
+    },
+    {
+        "id": 482,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.31,
+        "date": "2025-03-18"
+    },
+    {
+        "id": 483,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.73,
+        "date": "2025-03-18"
+    },
+    {
+        "id": 484,
+        "kpi_name": "Order Accuracy",
+        "value": 97.13,
+        "date": "2025-03-18"
+    },
+    {
+        "id": 485,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.75,
+        "date": "2025-03-18"
+    },
+    {
+        "id": 486,
+        "kpi_name": "Return Rate",
+        "value": 2.5,
+        "date": "2025-03-18"
+    },
+    {
+        "id": 487,
+        "kpi_name": "Lead Time",
+        "value": 5.22,
+        "date": "2025-03-19"
+    },
+    {
+        "id": 488,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.69,
+        "date": "2025-03-19"
+    },
+    {
+        "id": 489,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.95,
+        "date": "2025-03-19"
+    },
+    {
+        "id": 490,
+        "kpi_name": "Order Accuracy",
+        "value": 97.44,
+        "date": "2025-03-19"
+    },
+    {
+        "id": 491,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.19,
+        "date": "2025-03-19"
+    },
+    {
+        "id": 492,
+        "kpi_name": "Return Rate",
+        "value": 1.97,
+        "date": "2025-03-19"
+    },
+    {
+        "id": 493,
+        "kpi_name": "Lead Time",
+        "value": 5.05,
+        "date": "2025-03-20"
+    },
+    {
+        "id": 494,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.04,
+        "date": "2025-03-20"
+    },
+    {
+        "id": 495,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.5,
+        "date": "2025-03-20"
+    },
+    {
+        "id": 496,
+        "kpi_name": "Order Accuracy",
+        "value": 99.52,
+        "date": "2025-03-20"
+    },
+    {
+        "id": 497,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.93,
+        "date": "2025-03-20"
+    },
+    {
+        "id": 498,
+        "kpi_name": "Return Rate",
+        "value": 2.17,
+        "date": "2025-03-20"
+    },
+    {
+        "id": 499,
+        "kpi_name": "Lead Time",
+        "value": 5.54,
+        "date": "2025-03-21"
+    },
+    {
+        "id": 500,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.58,
+        "date": "2025-03-21"
+    },
+    {
+        "id": 501,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.85,
+        "date": "2025-03-21"
+    },
+    {
+        "id": 502,
+        "kpi_name": "Order Accuracy",
+        "value": 99.5,
+        "date": "2025-03-21"
+    },
+    {
+        "id": 503,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.27,
+        "date": "2025-03-21"
+    },
+    {
+        "id": 504,
+        "kpi_name": "Return Rate",
+        "value": 1.51,
+        "date": "2025-03-21"
+    },
+    {
+        "id": 505,
+        "kpi_name": "Lead Time",
+        "value": 5.24,
+        "date": "2025-03-22"
+    },
+    {
+        "id": 506,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.67,
+        "date": "2025-03-22"
+    },
+    {
+        "id": 507,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.64,
+        "date": "2025-03-22"
+    },
+    {
+        "id": 508,
+        "kpi_name": "Order Accuracy",
+        "value": 99.55,
+        "date": "2025-03-22"
+    },
+    {
+        "id": 509,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.59,
+        "date": "2025-03-22"
+    },
+    {
+        "id": 510,
+        "kpi_name": "Return Rate",
+        "value": 2.26,
+        "date": "2025-03-22"
+    },
+    {
+        "id": 511,
+        "kpi_name": "Lead Time",
+        "value": 5.89,
+        "date": "2025-03-23"
+    },
+    {
+        "id": 512,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.59,
+        "date": "2025-03-23"
+    },
+    {
+        "id": 513,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.87,
+        "date": "2025-03-23"
+    },
+    {
+        "id": 514,
+        "kpi_name": "Order Accuracy",
+        "value": 98.01,
+        "date": "2025-03-23"
+    },
+    {
+        "id": 515,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.63,
+        "date": "2025-03-23"
+    },
+    {
+        "id": 516,
+        "kpi_name": "Return Rate",
+        "value": 2.22,
+        "date": "2025-03-23"
+    },
+    {
+        "id": 517,
+        "kpi_name": "Lead Time",
+        "value": 4.87,
+        "date": "2025-03-24"
+    },
+    {
+        "id": 518,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.84,
+        "date": "2025-03-24"
+    },
+    {
+        "id": 519,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.99,
+        "date": "2025-03-24"
+    },
+    {
+        "id": 520,
+        "kpi_name": "Order Accuracy",
+        "value": 99.31,
+        "date": "2025-03-24"
+    },
+    {
+        "id": 521,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.55,
+        "date": "2025-03-24"
+    },
+    {
+        "id": 522,
+        "kpi_name": "Return Rate",
+        "value": 1.19,
+        "date": "2025-03-24"
+    },
+    {
+        "id": 523,
+        "kpi_name": "Lead Time",
+        "value": 5.15,
+        "date": "2025-03-25"
+    },
+    {
+        "id": 524,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.71,
+        "date": "2025-03-25"
+    },
+    {
+        "id": 525,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.72,
+        "date": "2025-03-25"
+    },
+    {
+        "id": 526,
+        "kpi_name": "Order Accuracy",
+        "value": 97.97,
+        "date": "2025-03-25"
+    },
+    {
+        "id": 527,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.24,
+        "date": "2025-03-25"
+    },
+    {
+        "id": 528,
+        "kpi_name": "Return Rate",
+        "value": 2.26,
+        "date": "2025-03-25"
+    },
+    {
+        "id": 529,
+        "kpi_name": "Lead Time",
+        "value": 4.85,
+        "date": "2025-03-26"
+    },
+    {
+        "id": 530,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.52,
+        "date": "2025-03-26"
+    },
+    {
+        "id": 531,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.73,
+        "date": "2025-03-26"
+    },
+    {
+        "id": 532,
+        "kpi_name": "Order Accuracy",
+        "value": 98.55,
+        "date": "2025-03-26"
+    },
+    {
+        "id": 533,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.62,
+        "date": "2025-03-26"
+    },
+    {
+        "id": 534,
+        "kpi_name": "Return Rate",
+        "value": 1.25,
+        "date": "2025-03-26"
+    },
+    {
+        "id": 535,
+        "kpi_name": "Lead Time",
+        "value": 4.38,
+        "date": "2025-03-27"
+    },
+    {
+        "id": 536,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.44,
+        "date": "2025-03-27"
+    },
+    {
+        "id": 537,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.75,
+        "date": "2025-03-27"
+    },
+    {
+        "id": 538,
+        "kpi_name": "Order Accuracy",
+        "value": 99.81,
+        "date": "2025-03-27"
+    },
+    {
+        "id": 539,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.64,
+        "date": "2025-03-27"
+    },
+    {
+        "id": 540,
+        "kpi_name": "Return Rate",
+        "value": 1.59,
+        "date": "2025-03-27"
+    },
+    {
+        "id": 541,
+        "kpi_name": "Lead Time",
+        "value": 5.4,
+        "date": "2025-03-28"
+    },
+    {
+        "id": 542,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.73,
+        "date": "2025-03-28"
+    },
+    {
+        "id": 543,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.9,
+        "date": "2025-03-28"
+    },
+    {
+        "id": 544,
+        "kpi_name": "Order Accuracy",
+        "value": 99.17,
+        "date": "2025-03-28"
+    },
+    {
+        "id": 545,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.74,
+        "date": "2025-03-28"
+    },
+    {
+        "id": 546,
+        "kpi_name": "Return Rate",
+        "value": 2.41,
+        "date": "2025-03-28"
+    },
+    {
+        "id": 547,
+        "kpi_name": "Lead Time",
+        "value": 5.68,
+        "date": "2025-03-29"
+    },
+    {
+        "id": 548,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.4,
+        "date": "2025-03-29"
+    },
+    {
+        "id": 549,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.46,
+        "date": "2025-03-29"
+    },
+    {
+        "id": 550,
+        "kpi_name": "Order Accuracy",
+        "value": 97.74,
+        "date": "2025-03-29"
+    },
+    {
+        "id": 551,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.5,
+        "date": "2025-03-29"
+    },
+    {
+        "id": 552,
+        "kpi_name": "Return Rate",
+        "value": 2.07,
+        "date": "2025-03-29"
+    },
+    {
+        "id": 553,
+        "kpi_name": "Lead Time",
+        "value": 5.87,
+        "date": "2025-03-30"
+    },
+    {
+        "id": 554,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.21,
+        "date": "2025-03-30"
+    },
+    {
+        "id": 555,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.53,
+        "date": "2025-03-30"
+    },
+    {
+        "id": 556,
+        "kpi_name": "Order Accuracy",
+        "value": 98.42,
+        "date": "2025-03-30"
+    },
+    {
+        "id": 557,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.33,
+        "date": "2025-03-30"
+    },
+    {
+        "id": 558,
+        "kpi_name": "Return Rate",
+        "value": 1.08,
+        "date": "2025-03-30"
+    },
+    {
+        "id": 559,
+        "kpi_name": "Lead Time",
+        "value": 4.75,
+        "date": "2025-03-31"
+    },
+    {
+        "id": 560,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.06,
+        "date": "2025-03-31"
+    },
+    {
+        "id": 561,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.82,
+        "date": "2025-03-31"
+    },
+    {
+        "id": 562,
+        "kpi_name": "Order Accuracy",
+        "value": 97.96,
+        "date": "2025-03-31"
+    },
+    {
+        "id": 563,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.29,
+        "date": "2025-03-31"
+    },
+    {
+        "id": 564,
+        "kpi_name": "Return Rate",
+        "value": 2.3,
+        "date": "2025-03-31"
+    },
+    {
+        "id": 565,
+        "kpi_name": "Lead Time",
+        "value": 4.85,
+        "date": "2025-04-01"
+    },
+    {
+        "id": 566,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.6,
+        "date": "2025-04-01"
+    },
+    {
+        "id": 567,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.35,
+        "date": "2025-04-01"
+    },
+    {
+        "id": 568,
+        "kpi_name": "Order Accuracy",
+        "value": 99.08,
+        "date": "2025-04-01"
+    },
+    {
+        "id": 569,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.15,
+        "date": "2025-04-01"
+    },
+    {
+        "id": 570,
+        "kpi_name": "Return Rate",
+        "value": 1.03,
+        "date": "2025-04-01"
+    },
+    {
+        "id": 571,
+        "kpi_name": "Lead Time",
+        "value": 5.21,
+        "date": "2025-04-02"
+    },
+    {
+        "id": 572,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.65,
+        "date": "2025-04-02"
+    },
+    {
+        "id": 573,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.96,
+        "date": "2025-04-02"
+    },
+    {
+        "id": 574,
+        "kpi_name": "Order Accuracy",
+        "value": 97.43,
+        "date": "2025-04-02"
+    },
+    {
+        "id": 575,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.57,
+        "date": "2025-04-02"
+    },
+    {
+        "id": 576,
+        "kpi_name": "Return Rate",
+        "value": 1.86,
+        "date": "2025-04-02"
+    },
+    {
+        "id": 577,
+        "kpi_name": "Lead Time",
+        "value": 4.38,
+        "date": "2025-04-03"
+    },
+    {
+        "id": 578,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.68,
+        "date": "2025-04-03"
+    },
+    {
+        "id": 579,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.77,
+        "date": "2025-04-03"
+    },
+    {
+        "id": 580,
+        "kpi_name": "Order Accuracy",
+        "value": 98.95,
+        "date": "2025-04-03"
+    },
+    {
+        "id": 581,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.92,
+        "date": "2025-04-03"
+    },
+    {
+        "id": 582,
+        "kpi_name": "Return Rate",
+        "value": 1.21,
+        "date": "2025-04-03"
+    },
+    {
+        "id": 583,
+        "kpi_name": "Lead Time",
+        "value": 4.49,
+        "date": "2025-04-04"
+    },
+    {
+        "id": 584,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.41,
+        "date": "2025-04-04"
+    },
+    {
+        "id": 585,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.7,
+        "date": "2025-04-04"
+    },
+    {
+        "id": 586,
+        "kpi_name": "Order Accuracy",
+        "value": 99.39,
+        "date": "2025-04-04"
+    },
+    {
+        "id": 587,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.87,
+        "date": "2025-04-04"
+    },
+    {
+        "id": 588,
+        "kpi_name": "Return Rate",
+        "value": 1.1,
+        "date": "2025-04-04"
+    },
+    {
+        "id": 589,
+        "kpi_name": "Lead Time",
+        "value": 5.18,
+        "date": "2025-04-05"
+    },
+    {
+        "id": 590,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.64,
+        "date": "2025-04-05"
+    },
+    {
+        "id": 591,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.78,
+        "date": "2025-04-05"
+    },
+    {
+        "id": 592,
+        "kpi_name": "Order Accuracy",
+        "value": 98.86,
+        "date": "2025-04-05"
+    },
+    {
+        "id": 593,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.19,
+        "date": "2025-04-05"
+    },
+    {
+        "id": 594,
+        "kpi_name": "Return Rate",
+        "value": 1.23,
+        "date": "2025-04-05"
+    },
+    {
+        "id": 595,
+        "kpi_name": "Lead Time",
+        "value": 5.48,
+        "date": "2025-04-06"
+    },
+    {
+        "id": 596,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.65,
+        "date": "2025-04-06"
+    },
+    {
+        "id": 597,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.91,
+        "date": "2025-04-06"
+    },
+    {
+        "id": 598,
+        "kpi_name": "Order Accuracy",
+        "value": 99.54,
+        "date": "2025-04-06"
+    },
+    {
+        "id": 599,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.45,
+        "date": "2025-04-06"
+    },
+    {
+        "id": 600,
+        "kpi_name": "Return Rate",
+        "value": 1.15,
+        "date": "2025-04-06"
+    },
+    {
+        "id": 601,
+        "kpi_name": "Lead Time",
+        "value": 5.45,
+        "date": "2025-04-07"
+    },
+    {
+        "id": 602,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.77,
+        "date": "2025-04-07"
+    },
+    {
+        "id": 603,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.84,
+        "date": "2025-04-07"
+    },
+    {
+        "id": 604,
+        "kpi_name": "Order Accuracy",
+        "value": 98.79,
+        "date": "2025-04-07"
+    },
+    {
+        "id": 605,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.36,
+        "date": "2025-04-07"
+    },
+    {
+        "id": 606,
+        "kpi_name": "Return Rate",
+        "value": 1.95,
+        "date": "2025-04-07"
+    },
+    {
+        "id": 607,
+        "kpi_name": "Lead Time",
+        "value": 5.67,
+        "date": "2025-04-08"
+    },
+    {
+        "id": 608,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.35,
+        "date": "2025-04-08"
+    },
+    {
+        "id": 609,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.71,
+        "date": "2025-04-08"
+    },
+    {
+        "id": 610,
+        "kpi_name": "Order Accuracy",
+        "value": 98.93,
+        "date": "2025-04-08"
+    },
+    {
+        "id": 611,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.66,
+        "date": "2025-04-08"
+    },
+    {
+        "id": 612,
+        "kpi_name": "Return Rate",
+        "value": 1.82,
+        "date": "2025-04-08"
+    },
+    {
+        "id": 613,
+        "kpi_name": "Lead Time",
+        "value": 5.98,
+        "date": "2025-04-09"
+    },
+    {
+        "id": 614,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.54,
+        "date": "2025-04-09"
+    },
+    {
+        "id": 615,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.4,
+        "date": "2025-04-09"
+    },
+    {
+        "id": 616,
+        "kpi_name": "Order Accuracy",
+        "value": 97.2,
+        "date": "2025-04-09"
+    },
+    {
+        "id": 617,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.91,
+        "date": "2025-04-09"
+    },
+    {
+        "id": 618,
+        "kpi_name": "Return Rate",
+        "value": 1.13,
+        "date": "2025-04-09"
+    },
+    {
+        "id": 619,
+        "kpi_name": "Lead Time",
+        "value": 4.91,
+        "date": "2025-04-10"
+    },
+    {
+        "id": 620,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.65,
+        "date": "2025-04-10"
+    },
+    {
+        "id": 621,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.56,
+        "date": "2025-04-10"
+    },
+    {
+        "id": 622,
+        "kpi_name": "Order Accuracy",
+        "value": 97.36,
+        "date": "2025-04-10"
+    },
+    {
+        "id": 623,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.21,
+        "date": "2025-04-10"
+    },
+    {
+        "id": 624,
+        "kpi_name": "Return Rate",
+        "value": 2.23,
+        "date": "2025-04-10"
+    },
+    {
+        "id": 625,
+        "kpi_name": "Lead Time",
+        "value": 4.14,
+        "date": "2025-01-01"
+    },
+    {
+        "id": 626,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.48,
+        "date": "2025-01-01"
+    },
+    {
+        "id": 627,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.87,
+        "date": "2025-01-01"
+    },
+    {
+        "id": 628,
+        "kpi_name": "Order Accuracy",
+        "value": 98.84,
+        "date": "2025-01-01"
+    },
+    {
+        "id": 629,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.38,
+        "date": "2025-01-01"
+    },
+    {
+        "id": 630,
+        "kpi_name": "Return Rate",
+        "value": 2.37,
+        "date": "2025-01-01"
+    },
+    {
+        "id": 631,
+        "kpi_name": "Lead Time",
+        "value": 4.59,
+        "date": "2025-01-02"
+    },
+    {
+        "id": 632,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.96,
+        "date": "2025-01-02"
+    },
+    {
+        "id": 633,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.88,
+        "date": "2025-01-02"
+    },
+    {
+        "id": 634,
+        "kpi_name": "Order Accuracy",
+        "value": 97.24,
+        "date": "2025-01-02"
+    },
+    {
+        "id": 635,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.79,
+        "date": "2025-01-02"
+    },
+    {
+        "id": 636,
+        "kpi_name": "Return Rate",
+        "value": 1.47,
+        "date": "2025-01-02"
+    },
+    {
+        "id": 637,
+        "kpi_name": "Lead Time",
+        "value": 4.27,
+        "date": "2025-01-03"
+    },
+    {
+        "id": 638,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.16,
+        "date": "2025-01-03"
+    },
+    {
+        "id": 639,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.23,
+        "date": "2025-01-03"
+    },
+    {
+        "id": 640,
+        "kpi_name": "Order Accuracy",
+        "value": 98.16,
+        "date": "2025-01-03"
+    },
+    {
+        "id": 641,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.5,
+        "date": "2025-01-03"
+    },
+    {
+        "id": 642,
+        "kpi_name": "Return Rate",
+        "value": 1.58,
+        "date": "2025-01-03"
+    },
+    {
+        "id": 643,
+        "kpi_name": "Lead Time",
+        "value": 5.39,
+        "date": "2025-01-04"
+    },
+    {
+        "id": 644,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.68,
+        "date": "2025-01-04"
+    },
+    {
+        "id": 645,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.9,
+        "date": "2025-01-04"
+    },
+    {
+        "id": 646,
+        "kpi_name": "Order Accuracy",
+        "value": 97.9,
+        "date": "2025-01-04"
+    },
+    {
+        "id": 647,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.97,
+        "date": "2025-01-04"
+    },
+    {
+        "id": 648,
+        "kpi_name": "Return Rate",
+        "value": 1.54,
+        "date": "2025-01-04"
+    },
+    {
+        "id": 649,
+        "kpi_name": "Lead Time",
+        "value": 5.19,
+        "date": "2025-01-05"
+    },
+    {
+        "id": 650,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.86,
+        "date": "2025-01-05"
+    },
+    {
+        "id": 651,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.79,
+        "date": "2025-01-05"
+    },
+    {
+        "id": 652,
+        "kpi_name": "Order Accuracy",
+        "value": 99.37,
+        "date": "2025-01-05"
+    },
+    {
+        "id": 653,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.45,
+        "date": "2025-01-05"
+    },
+    {
+        "id": 654,
+        "kpi_name": "Return Rate",
+        "value": 1.12,
+        "date": "2025-01-05"
+    },
+    {
+        "id": 655,
+        "kpi_name": "Lead Time",
+        "value": 4.77,
+        "date": "2025-01-06"
+    },
+    {
+        "id": 656,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.98,
+        "date": "2025-01-06"
+    },
+    {
+        "id": 657,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.27,
+        "date": "2025-01-06"
+    },
+    {
+        "id": 658,
+        "kpi_name": "Order Accuracy",
+        "value": 97.5,
+        "date": "2025-01-06"
+    },
+    {
+        "id": 659,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.37,
+        "date": "2025-01-06"
+    },
+    {
+        "id": 660,
+        "kpi_name": "Return Rate",
+        "value": 1.98,
+        "date": "2025-01-06"
+    },
+    {
+        "id": 661,
+        "kpi_name": "Lead Time",
+        "value": 5.77,
+        "date": "2025-01-07"
+    },
+    {
+        "id": 662,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.3,
+        "date": "2025-01-07"
+    },
+    {
+        "id": 663,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.67,
+        "date": "2025-01-07"
+    },
+    {
+        "id": 664,
+        "kpi_name": "Order Accuracy",
+        "value": 97.4,
+        "date": "2025-01-07"
+    },
+    {
+        "id": 665,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.65,
+        "date": "2025-01-07"
+    },
+    {
+        "id": 666,
+        "kpi_name": "Return Rate",
+        "value": 1.96,
+        "date": "2025-01-07"
+    },
+    {
+        "id": 667,
+        "kpi_name": "Lead Time",
+        "value": 4.9,
+        "date": "2025-01-08"
+    },
+    {
+        "id": 668,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.19,
+        "date": "2025-01-08"
+    },
+    {
+        "id": 669,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.08,
+        "date": "2025-01-08"
+    },
+    {
+        "id": 670,
+        "kpi_name": "Order Accuracy",
+        "value": 99.61,
+        "date": "2025-01-08"
+    },
+    {
+        "id": 671,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.89,
+        "date": "2025-01-08"
+    },
+    {
+        "id": 672,
+        "kpi_name": "Return Rate",
+        "value": 2.02,
+        "date": "2025-01-08"
+    },
+    {
+        "id": 673,
+        "kpi_name": "Lead Time",
+        "value": 4.38,
+        "date": "2025-01-09"
+    },
+    {
+        "id": 674,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.24,
+        "date": "2025-01-09"
+    },
+    {
+        "id": 675,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.87,
+        "date": "2025-01-09"
+    },
+    {
+        "id": 676,
+        "kpi_name": "Order Accuracy",
+        "value": 99.44,
+        "date": "2025-01-09"
+    },
+    {
+        "id": 677,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.73,
+        "date": "2025-01-09"
+    },
+    {
+        "id": 678,
+        "kpi_name": "Return Rate",
+        "value": 2.21,
+        "date": "2025-01-09"
+    },
+    {
+        "id": 679,
+        "kpi_name": "Lead Time",
+        "value": 5.69,
+        "date": "2025-01-10"
+    },
+    {
+        "id": 680,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.77,
+        "date": "2025-01-10"
+    },
+    {
+        "id": 681,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.68,
+        "date": "2025-01-10"
+    },
+    {
+        "id": 682,
+        "kpi_name": "Order Accuracy",
+        "value": 97.41,
+        "date": "2025-01-10"
+    },
+    {
+        "id": 683,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.72,
+        "date": "2025-01-10"
+    },
+    {
+        "id": 684,
+        "kpi_name": "Return Rate",
+        "value": 2.23,
+        "date": "2025-01-10"
+    },
+    {
+        "id": 685,
+        "kpi_name": "Lead Time",
+        "value": 5.75,
+        "date": "2025-01-11"
+    },
+    {
+        "id": 686,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.94,
+        "date": "2025-01-11"
+    },
+    {
+        "id": 687,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.65,
+        "date": "2025-01-11"
+    },
+    {
+        "id": 688,
+        "kpi_name": "Order Accuracy",
+        "value": 100.0,
+        "date": "2025-01-11"
+    },
+    {
+        "id": 689,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.05,
+        "date": "2025-01-11"
+    },
+    {
+        "id": 690,
+        "kpi_name": "Return Rate",
+        "value": 1.46,
+        "date": "2025-01-11"
+    },
+    {
+        "id": 691,
+        "kpi_name": "Lead Time",
+        "value": 4.14,
+        "date": "2025-01-12"
+    },
+    {
+        "id": 692,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.29,
+        "date": "2025-01-12"
+    },
+    {
+        "id": 693,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.08,
+        "date": "2025-01-12"
+    },
+    {
+        "id": 694,
+        "kpi_name": "Order Accuracy",
+        "value": 99.48,
+        "date": "2025-01-12"
+    },
+    {
+        "id": 695,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.15,
+        "date": "2025-01-12"
+    },
+    {
+        "id": 696,
+        "kpi_name": "Return Rate",
+        "value": 1.18,
+        "date": "2025-01-12"
+    },
+    {
+        "id": 697,
+        "kpi_name": "Lead Time",
+        "value": 4.49,
+        "date": "2025-01-13"
+    },
+    {
+        "id": 698,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.37,
+        "date": "2025-01-13"
+    },
+    {
+        "id": 699,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.78,
+        "date": "2025-01-13"
+    },
+    {
+        "id": 700,
+        "kpi_name": "Order Accuracy",
+        "value": 99.14,
+        "date": "2025-01-13"
+    },
+    {
+        "id": 701,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.54,
+        "date": "2025-01-13"
+    },
+    {
+        "id": 702,
+        "kpi_name": "Return Rate",
+        "value": 1.35,
+        "date": "2025-01-13"
+    },
+    {
+        "id": 703,
+        "kpi_name": "Lead Time",
+        "value": 4.53,
+        "date": "2025-01-14"
+    },
+    {
+        "id": 704,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.12,
+        "date": "2025-01-14"
+    },
+    {
+        "id": 705,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.22,
+        "date": "2025-01-14"
+    },
+    {
+        "id": 706,
+        "kpi_name": "Order Accuracy",
+        "value": 97.96,
+        "date": "2025-01-14"
+    },
+    {
+        "id": 707,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.0,
+        "date": "2025-01-14"
+    },
+    {
+        "id": 708,
+        "kpi_name": "Return Rate",
+        "value": 1.76,
+        "date": "2025-01-14"
+    },
+    {
+        "id": 709,
+        "kpi_name": "Lead Time",
+        "value": 4.24,
+        "date": "2025-01-15"
+    },
+    {
+        "id": 710,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.02,
+        "date": "2025-01-15"
+    },
+    {
+        "id": 711,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.25,
+        "date": "2025-01-15"
+    },
+    {
+        "id": 712,
+        "kpi_name": "Order Accuracy",
+        "value": 97.57,
+        "date": "2025-01-15"
+    },
+    {
+        "id": 713,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.44,
+        "date": "2025-01-15"
+    },
+    {
+        "id": 714,
+        "kpi_name": "Return Rate",
+        "value": 2.17,
+        "date": "2025-01-15"
+    },
+    {
+        "id": 715,
+        "kpi_name": "Lead Time",
+        "value": 4.88,
+        "date": "2025-01-16"
+    },
+    {
+        "id": 716,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.07,
+        "date": "2025-01-16"
+    },
+    {
+        "id": 717,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.81,
+        "date": "2025-01-16"
+    },
+    {
+        "id": 718,
+        "kpi_name": "Order Accuracy",
+        "value": 99.62,
+        "date": "2025-01-16"
+    },
+    {
+        "id": 719,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.18,
+        "date": "2025-01-16"
+    },
+    {
+        "id": 720,
+        "kpi_name": "Return Rate",
+        "value": 1.31,
+        "date": "2025-01-16"
+    },
+    {
+        "id": 721,
+        "kpi_name": "Lead Time",
+        "value": 5.24,
+        "date": "2025-01-17"
+    },
+    {
+        "id": 722,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.2,
+        "date": "2025-01-17"
+    },
+    {
+        "id": 723,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.52,
+        "date": "2025-01-17"
+    },
+    {
+        "id": 724,
+        "kpi_name": "Order Accuracy",
+        "value": 99.99,
+        "date": "2025-01-17"
+    },
+    {
+        "id": 725,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.52,
+        "date": "2025-01-17"
+    },
+    {
+        "id": 726,
+        "kpi_name": "Return Rate",
+        "value": 2.18,
+        "date": "2025-01-17"
+    },
+    {
+        "id": 727,
+        "kpi_name": "Lead Time",
+        "value": 5.78,
+        "date": "2025-01-18"
+    },
+    {
+        "id": 728,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.29,
+        "date": "2025-01-18"
+    },
+    {
+        "id": 729,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.53,
+        "date": "2025-01-18"
+    },
+    {
+        "id": 730,
+        "kpi_name": "Order Accuracy",
+        "value": 97.68,
+        "date": "2025-01-18"
+    },
+    {
+        "id": 731,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.4,
+        "date": "2025-01-18"
+    },
+    {
+        "id": 732,
+        "kpi_name": "Return Rate",
+        "value": 1.48,
+        "date": "2025-01-18"
+    },
+    {
+        "id": 733,
+        "kpi_name": "Lead Time",
+        "value": 4.69,
+        "date": "2025-01-19"
+    },
+    {
+        "id": 734,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.33,
+        "date": "2025-01-19"
+    },
+    {
+        "id": 735,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.55,
+        "date": "2025-01-19"
+    },
+    {
+        "id": 736,
+        "kpi_name": "Order Accuracy",
+        "value": 97.48,
+        "date": "2025-01-19"
+    },
+    {
+        "id": 737,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.22,
+        "date": "2025-01-19"
+    },
+    {
+        "id": 738,
+        "kpi_name": "Return Rate",
+        "value": 2.09,
+        "date": "2025-01-19"
+    },
+    {
+        "id": 739,
+        "kpi_name": "Lead Time",
+        "value": 5.76,
+        "date": "2025-01-20"
+    },
+    {
+        "id": 740,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.49,
+        "date": "2025-01-20"
+    },
+    {
+        "id": 741,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.16,
+        "date": "2025-01-20"
+    },
+    {
+        "id": 742,
+        "kpi_name": "Order Accuracy",
+        "value": 99.8,
+        "date": "2025-01-20"
+    },
+    {
+        "id": 743,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.2,
+        "date": "2025-01-20"
+    },
+    {
+        "id": 744,
+        "kpi_name": "Return Rate",
+        "value": 1.8,
+        "date": "2025-01-20"
+    },
+    {
+        "id": 745,
+        "kpi_name": "Lead Time",
+        "value": 5.21,
+        "date": "2025-01-21"
+    },
+    {
+        "id": 746,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.74,
+        "date": "2025-01-21"
+    },
+    {
+        "id": 747,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.58,
+        "date": "2025-01-21"
+    },
+    {
+        "id": 748,
+        "kpi_name": "Order Accuracy",
+        "value": 98.41,
+        "date": "2025-01-21"
+    },
+    {
+        "id": 749,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.48,
+        "date": "2025-01-21"
+    },
+    {
+        "id": 750,
+        "kpi_name": "Return Rate",
+        "value": 1.69,
+        "date": "2025-01-21"
+    },
+    {
+        "id": 751,
+        "kpi_name": "Lead Time",
+        "value": 4.53,
+        "date": "2025-01-22"
+    },
+    {
+        "id": 752,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.64,
+        "date": "2025-01-22"
+    },
+    {
+        "id": 753,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.99,
+        "date": "2025-01-22"
+    },
+    {
+        "id": 754,
+        "kpi_name": "Order Accuracy",
+        "value": 97.77,
+        "date": "2025-01-22"
+    },
+    {
+        "id": 755,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.45,
+        "date": "2025-01-22"
+    },
+    {
+        "id": 756,
+        "kpi_name": "Return Rate",
+        "value": 1.34,
+        "date": "2025-01-22"
+    },
+    {
+        "id": 757,
+        "kpi_name": "Lead Time",
+        "value": 5.77,
+        "date": "2025-01-23"
+    },
+    {
+        "id": 758,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.83,
+        "date": "2025-01-23"
+    },
+    {
+        "id": 759,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.78,
+        "date": "2025-01-23"
+    },
+    {
+        "id": 760,
+        "kpi_name": "Order Accuracy",
+        "value": 98.08,
+        "date": "2025-01-23"
+    },
+    {
+        "id": 761,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.65,
+        "date": "2025-01-23"
+    },
+    {
+        "id": 762,
+        "kpi_name": "Return Rate",
+        "value": 1.5,
+        "date": "2025-01-23"
+    },
+    {
+        "id": 763,
+        "kpi_name": "Lead Time",
+        "value": 5.07,
+        "date": "2025-01-24"
+    },
+    {
+        "id": 764,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.53,
+        "date": "2025-01-24"
+    },
+    {
+        "id": 765,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.72,
+        "date": "2025-01-24"
+    },
+    {
+        "id": 766,
+        "kpi_name": "Order Accuracy",
+        "value": 98.19,
+        "date": "2025-01-24"
+    },
+    {
+        "id": 767,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.75,
+        "date": "2025-01-24"
+    },
+    {
+        "id": 768,
+        "kpi_name": "Return Rate",
+        "value": 1.23,
+        "date": "2025-01-24"
+    },
+    {
+        "id": 769,
+        "kpi_name": "Lead Time",
+        "value": 5.26,
+        "date": "2025-01-25"
+    },
+    {
+        "id": 770,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.5,
+        "date": "2025-01-25"
+    },
+    {
+        "id": 771,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.35,
+        "date": "2025-01-25"
+    },
+    {
+        "id": 772,
+        "kpi_name": "Order Accuracy",
+        "value": 99.12,
+        "date": "2025-01-25"
+    },
+    {
+        "id": 773,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.91,
+        "date": "2025-01-25"
+    },
+    {
+        "id": 774,
+        "kpi_name": "Return Rate",
+        "value": 1.01,
+        "date": "2025-01-25"
+    },
+    {
+        "id": 775,
+        "kpi_name": "Lead Time",
+        "value": 4.92,
+        "date": "2025-01-26"
+    },
+    {
+        "id": 776,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.83,
+        "date": "2025-01-26"
+    },
+    {
+        "id": 777,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.86,
+        "date": "2025-01-26"
+    },
+    {
+        "id": 778,
+        "kpi_name": "Order Accuracy",
+        "value": 98.24,
+        "date": "2025-01-26"
+    },
+    {
+        "id": 779,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.77,
+        "date": "2025-01-26"
+    },
+    {
+        "id": 780,
+        "kpi_name": "Return Rate",
+        "value": 2.37,
+        "date": "2025-01-26"
+    },
+    {
+        "id": 781,
+        "kpi_name": "Lead Time",
+        "value": 4.38,
+        "date": "2025-01-27"
+    },
+    {
+        "id": 782,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.42,
+        "date": "2025-01-27"
+    },
+    {
+        "id": 783,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.71,
+        "date": "2025-01-27"
+    },
+    {
+        "id": 784,
+        "kpi_name": "Order Accuracy",
+        "value": 99.21,
+        "date": "2025-01-27"
+    },
+    {
+        "id": 785,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.24,
+        "date": "2025-01-27"
+    },
+    {
+        "id": 786,
+        "kpi_name": "Return Rate",
+        "value": 1.31,
+        "date": "2025-01-27"
+    },
+    {
+        "id": 787,
+        "kpi_name": "Lead Time",
+        "value": 5.83,
+        "date": "2025-01-28"
+    },
+    {
+        "id": 788,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.56,
+        "date": "2025-01-28"
+    },
+    {
+        "id": 789,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.4,
+        "date": "2025-01-28"
+    },
+    {
+        "id": 790,
+        "kpi_name": "Order Accuracy",
+        "value": 97.28,
+        "date": "2025-01-28"
+    },
+    {
+        "id": 791,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.01,
+        "date": "2025-01-28"
+    },
+    {
+        "id": 792,
+        "kpi_name": "Return Rate",
+        "value": 1.37,
+        "date": "2025-01-28"
+    },
+    {
+        "id": 793,
+        "kpi_name": "Lead Time",
+        "value": 5.18,
+        "date": "2025-01-29"
+    },
+    {
+        "id": 794,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.83,
+        "date": "2025-01-29"
+    },
+    {
+        "id": 795,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.75,
+        "date": "2025-01-29"
+    },
+    {
+        "id": 796,
+        "kpi_name": "Order Accuracy",
+        "value": 99.74,
+        "date": "2025-01-29"
+    },
+    {
+        "id": 797,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.03,
+        "date": "2025-01-29"
+    },
+    {
+        "id": 798,
+        "kpi_name": "Return Rate",
+        "value": 1.92,
+        "date": "2025-01-29"
+    },
+    {
+        "id": 799,
+        "kpi_name": "Lead Time",
+        "value": 5.44,
+        "date": "2025-01-30"
+    },
+    {
+        "id": 800,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.8,
+        "date": "2025-01-30"
+    },
+    {
+        "id": 801,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.1,
+        "date": "2025-01-30"
+    },
+    {
+        "id": 802,
+        "kpi_name": "Order Accuracy",
+        "value": 98.13,
+        "date": "2025-01-30"
+    },
+    {
+        "id": 803,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.23,
+        "date": "2025-01-30"
+    },
+    {
+        "id": 804,
+        "kpi_name": "Return Rate",
+        "value": 1.52,
+        "date": "2025-01-30"
+    },
+    {
+        "id": 805,
+        "kpi_name": "Lead Time",
+        "value": 5.61,
+        "date": "2025-01-31"
+    },
+    {
+        "id": 806,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.21,
+        "date": "2025-01-31"
+    },
+    {
+        "id": 807,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.77,
+        "date": "2025-01-31"
+    },
+    {
+        "id": 808,
+        "kpi_name": "Order Accuracy",
+        "value": 97.81,
+        "date": "2025-01-31"
+    },
+    {
+        "id": 809,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.88,
+        "date": "2025-01-31"
+    },
+    {
+        "id": 810,
+        "kpi_name": "Return Rate",
+        "value": 2.12,
+        "date": "2025-01-31"
+    },
+    {
+        "id": 811,
+        "kpi_name": "Lead Time",
+        "value": 4.87,
+        "date": "2025-02-01"
+    },
+    {
+        "id": 812,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.51,
+        "date": "2025-02-01"
+    },
+    {
+        "id": 813,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.11,
+        "date": "2025-02-01"
+    },
+    {
+        "id": 814,
+        "kpi_name": "Order Accuracy",
+        "value": 97.46,
+        "date": "2025-02-01"
+    },
+    {
+        "id": 815,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.58,
+        "date": "2025-02-01"
+    },
+    {
+        "id": 816,
+        "kpi_name": "Return Rate",
+        "value": 1.15,
+        "date": "2025-02-01"
+    },
+    {
+        "id": 817,
+        "kpi_name": "Lead Time",
+        "value": 5.49,
+        "date": "2025-02-02"
+    },
+    {
+        "id": 818,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.3,
+        "date": "2025-02-02"
+    },
+    {
+        "id": 819,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.76,
+        "date": "2025-02-02"
+    },
+    {
+        "id": 820,
+        "kpi_name": "Order Accuracy",
+        "value": 97.48,
+        "date": "2025-02-02"
+    },
+    {
+        "id": 821,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.65,
+        "date": "2025-02-02"
+    },
+    {
+        "id": 822,
+        "kpi_name": "Return Rate",
+        "value": 1.14,
+        "date": "2025-02-02"
+    },
+    {
+        "id": 823,
+        "kpi_name": "Lead Time",
+        "value": 5.38,
+        "date": "2025-02-03"
+    },
+    {
+        "id": 824,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.75,
+        "date": "2025-02-03"
+    },
+    {
+        "id": 825,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.97,
+        "date": "2025-02-03"
+    },
+    {
+        "id": 826,
+        "kpi_name": "Order Accuracy",
+        "value": 97.83,
+        "date": "2025-02-03"
+    },
+    {
+        "id": 827,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.06,
+        "date": "2025-02-03"
+    },
+    {
+        "id": 828,
+        "kpi_name": "Return Rate",
+        "value": 1.25,
+        "date": "2025-02-03"
+    },
+    {
+        "id": 829,
+        "kpi_name": "Lead Time",
+        "value": 4.1,
+        "date": "2025-02-04"
+    },
+    {
+        "id": 830,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.4,
+        "date": "2025-02-04"
+    },
+    {
+        "id": 831,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.9,
+        "date": "2025-02-04"
+    },
+    {
+        "id": 832,
+        "kpi_name": "Order Accuracy",
+        "value": 98.47,
+        "date": "2025-02-04"
+    },
+    {
+        "id": 833,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.09,
+        "date": "2025-02-04"
+    },
+    {
+        "id": 834,
+        "kpi_name": "Return Rate",
+        "value": 2.47,
+        "date": "2025-02-04"
+    },
+    {
+        "id": 835,
+        "kpi_name": "Lead Time",
+        "value": 4.19,
+        "date": "2025-02-05"
+    },
+    {
+        "id": 836,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.02,
+        "date": "2025-02-05"
+    },
+    {
+        "id": 837,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.8,
+        "date": "2025-02-05"
+    },
+    {
+        "id": 838,
+        "kpi_name": "Order Accuracy",
+        "value": 97.03,
+        "date": "2025-02-05"
+    },
+    {
+        "id": 839,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.18,
+        "date": "2025-02-05"
+    },
+    {
+        "id": 840,
+        "kpi_name": "Return Rate",
+        "value": 1.94,
+        "date": "2025-02-05"
+    },
+    {
+        "id": 841,
+        "kpi_name": "Lead Time",
+        "value": 4.27,
+        "date": "2025-02-06"
+    },
+    {
+        "id": 842,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.74,
+        "date": "2025-02-06"
+    },
+    {
+        "id": 843,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.94,
+        "date": "2025-02-06"
+    },
+    {
+        "id": 844,
+        "kpi_name": "Order Accuracy",
+        "value": 99.0,
+        "date": "2025-02-06"
+    },
+    {
+        "id": 845,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.37,
+        "date": "2025-02-06"
+    },
+    {
+        "id": 846,
+        "kpi_name": "Return Rate",
+        "value": 2.26,
+        "date": "2025-02-06"
+    },
+    {
+        "id": 847,
+        "kpi_name": "Lead Time",
+        "value": 4.64,
+        "date": "2025-02-07"
+    },
+    {
+        "id": 848,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.11,
+        "date": "2025-02-07"
+    },
+    {
+        "id": 849,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.73,
+        "date": "2025-02-07"
+    },
+    {
+        "id": 850,
+        "kpi_name": "Order Accuracy",
+        "value": 98.19,
+        "date": "2025-02-07"
+    },
+    {
+        "id": 851,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.68,
+        "date": "2025-02-07"
+    },
+    {
+        "id": 852,
+        "kpi_name": "Return Rate",
+        "value": 1.68,
+        "date": "2025-02-07"
+    },
+    {
+        "id": 853,
+        "kpi_name": "Lead Time",
+        "value": 5.65,
+        "date": "2025-02-08"
+    },
+    {
+        "id": 854,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.68,
+        "date": "2025-02-08"
+    },
+    {
+        "id": 855,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.23,
+        "date": "2025-02-08"
+    },
+    {
+        "id": 856,
+        "kpi_name": "Order Accuracy",
+        "value": 99.02,
+        "date": "2025-02-08"
+    },
+    {
+        "id": 857,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.94,
+        "date": "2025-02-08"
+    },
+    {
+        "id": 858,
+        "kpi_name": "Return Rate",
+        "value": 2.24,
+        "date": "2025-02-08"
+    },
+    {
+        "id": 859,
+        "kpi_name": "Lead Time",
+        "value": 4.98,
+        "date": "2025-02-09"
+    },
+    {
+        "id": 860,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.73,
+        "date": "2025-02-09"
+    },
+    {
+        "id": 861,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.57,
+        "date": "2025-02-09"
+    },
+    {
+        "id": 862,
+        "kpi_name": "Order Accuracy",
+        "value": 99.58,
+        "date": "2025-02-09"
+    },
+    {
+        "id": 863,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.69,
+        "date": "2025-02-09"
+    },
+    {
+        "id": 864,
+        "kpi_name": "Return Rate",
+        "value": 1.3,
+        "date": "2025-02-09"
+    },
+    {
+        "id": 865,
+        "kpi_name": "Lead Time",
+        "value": 4.88,
+        "date": "2025-02-10"
+    },
+    {
+        "id": 866,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.42,
+        "date": "2025-02-10"
+    },
+    {
+        "id": 867,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.93,
+        "date": "2025-02-10"
+    },
+    {
+        "id": 868,
+        "kpi_name": "Order Accuracy",
+        "value": 97.21,
+        "date": "2025-02-10"
+    },
+    {
+        "id": 869,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.22,
+        "date": "2025-02-10"
+    },
+    {
+        "id": 870,
+        "kpi_name": "Return Rate",
+        "value": 2.0,
+        "date": "2025-02-10"
+    },
+    {
+        "id": 871,
+        "kpi_name": "Lead Time",
+        "value": 5.88,
+        "date": "2025-02-11"
+    },
+    {
+        "id": 872,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.77,
+        "date": "2025-02-11"
+    },
+    {
+        "id": 873,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.25,
+        "date": "2025-02-11"
+    },
+    {
+        "id": 874,
+        "kpi_name": "Order Accuracy",
+        "value": 97.61,
+        "date": "2025-02-11"
+    },
+    {
+        "id": 875,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.31,
+        "date": "2025-02-11"
+    },
+    {
+        "id": 876,
+        "kpi_name": "Return Rate",
+        "value": 1.75,
+        "date": "2025-02-11"
+    },
+    {
+        "id": 877,
+        "kpi_name": "Lead Time",
+        "value": 5.57,
+        "date": "2025-02-12"
+    },
+    {
+        "id": 878,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.58,
+        "date": "2025-02-12"
+    },
+    {
+        "id": 879,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.88,
+        "date": "2025-02-12"
+    },
+    {
+        "id": 880,
+        "kpi_name": "Order Accuracy",
+        "value": 98.61,
+        "date": "2025-02-12"
+    },
+    {
+        "id": 881,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.76,
+        "date": "2025-02-12"
+    },
+    {
+        "id": 882,
+        "kpi_name": "Return Rate",
+        "value": 1.64,
+        "date": "2025-02-12"
+    },
+    {
+        "id": 883,
+        "kpi_name": "Lead Time",
+        "value": 5.32,
+        "date": "2025-02-13"
+    },
+    {
+        "id": 884,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.42,
+        "date": "2025-02-13"
+    },
+    {
+        "id": 885,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.66,
+        "date": "2025-02-13"
+    },
+    {
+        "id": 886,
+        "kpi_name": "Order Accuracy",
+        "value": 98.3,
+        "date": "2025-02-13"
+    },
+    {
+        "id": 887,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.05,
+        "date": "2025-02-13"
+    },
+    {
+        "id": 888,
+        "kpi_name": "Return Rate",
+        "value": 1.47,
+        "date": "2025-02-13"
+    },
+    {
+        "id": 889,
+        "kpi_name": "Lead Time",
+        "value": 4.14,
+        "date": "2025-02-14"
+    },
+    {
+        "id": 890,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.8,
+        "date": "2025-02-14"
+    },
+    {
+        "id": 891,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.36,
+        "date": "2025-02-14"
+    },
+    {
+        "id": 892,
+        "kpi_name": "Order Accuracy",
+        "value": 99.99,
+        "date": "2025-02-14"
+    },
+    {
+        "id": 893,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.76,
+        "date": "2025-02-14"
+    },
+    {
+        "id": 894,
+        "kpi_name": "Return Rate",
+        "value": 2.1,
+        "date": "2025-02-14"
+    },
+    {
+        "id": 895,
+        "kpi_name": "Lead Time",
+        "value": 5.91,
+        "date": "2025-02-15"
+    },
+    {
+        "id": 896,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.73,
+        "date": "2025-02-15"
+    },
+    {
+        "id": 897,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.74,
+        "date": "2025-02-15"
+    },
+    {
+        "id": 898,
+        "kpi_name": "Order Accuracy",
+        "value": 98.4,
+        "date": "2025-02-15"
+    },
+    {
+        "id": 899,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.46,
+        "date": "2025-02-15"
+    },
+    {
+        "id": 900,
+        "kpi_name": "Return Rate",
+        "value": 1.39,
+        "date": "2025-02-15"
+    },
+    {
+        "id": 901,
+        "kpi_name": "Lead Time",
+        "value": 5.93,
+        "date": "2025-02-16"
+    },
+    {
+        "id": 902,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.73,
+        "date": "2025-02-16"
+    },
+    {
+        "id": 903,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.13,
+        "date": "2025-02-16"
+    },
+    {
+        "id": 904,
+        "kpi_name": "Order Accuracy",
+        "value": 98.39,
+        "date": "2025-02-16"
+    },
+    {
+        "id": 905,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.21,
+        "date": "2025-02-16"
+    },
+    {
+        "id": 906,
+        "kpi_name": "Return Rate",
+        "value": 2.37,
+        "date": "2025-02-16"
+    },
+    {
+        "id": 907,
+        "kpi_name": "Lead Time",
+        "value": 5.19,
+        "date": "2025-02-17"
+    },
+    {
+        "id": 908,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.22,
+        "date": "2025-02-17"
+    },
+    {
+        "id": 909,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.68,
+        "date": "2025-02-17"
+    },
+    {
+        "id": 910,
+        "kpi_name": "Order Accuracy",
+        "value": 99.93,
+        "date": "2025-02-17"
+    },
+    {
+        "id": 911,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.18,
+        "date": "2025-02-17"
+    },
+    {
+        "id": 912,
+        "kpi_name": "Return Rate",
+        "value": 1.55,
+        "date": "2025-02-17"
+    },
+    {
+        "id": 913,
+        "kpi_name": "Lead Time",
+        "value": 5.13,
+        "date": "2025-02-18"
+    },
+    {
+        "id": 914,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.24,
+        "date": "2025-02-18"
+    },
+    {
+        "id": 915,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.99,
+        "date": "2025-02-18"
+    },
+    {
+        "id": 916,
+        "kpi_name": "Order Accuracy",
+        "value": 99.52,
+        "date": "2025-02-18"
+    },
+    {
+        "id": 917,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.24,
+        "date": "2025-02-18"
+    },
+    {
+        "id": 918,
+        "kpi_name": "Return Rate",
+        "value": 1.08,
+        "date": "2025-02-18"
+    },
+    {
+        "id": 919,
+        "kpi_name": "Lead Time",
+        "value": 5.95,
+        "date": "2025-02-19"
+    },
+    {
+        "id": 920,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.09,
+        "date": "2025-02-19"
+    },
+    {
+        "id": 921,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.91,
+        "date": "2025-02-19"
+    },
+    {
+        "id": 922,
+        "kpi_name": "Order Accuracy",
+        "value": 100.0,
+        "date": "2025-02-19"
+    },
+    {
+        "id": 923,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.37,
+        "date": "2025-02-19"
+    },
+    {
+        "id": 924,
+        "kpi_name": "Return Rate",
+        "value": 1.93,
+        "date": "2025-02-19"
+    },
+    {
+        "id": 925,
+        "kpi_name": "Lead Time",
+        "value": 5.96,
+        "date": "2025-02-20"
+    },
+    {
+        "id": 926,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.27,
+        "date": "2025-02-20"
+    },
+    {
+        "id": 927,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.46,
+        "date": "2025-02-20"
+    },
+    {
+        "id": 928,
+        "kpi_name": "Order Accuracy",
+        "value": 97.3,
+        "date": "2025-02-20"
+    },
+    {
+        "id": 929,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.34,
+        "date": "2025-02-20"
+    },
+    {
+        "id": 930,
+        "kpi_name": "Return Rate",
+        "value": 1.52,
+        "date": "2025-02-20"
+    },
+    {
+        "id": 931,
+        "kpi_name": "Lead Time",
+        "value": 5.24,
+        "date": "2025-02-21"
+    },
+    {
+        "id": 932,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.68,
+        "date": "2025-02-21"
+    },
+    {
+        "id": 933,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.86,
+        "date": "2025-02-21"
+    },
+    {
+        "id": 934,
+        "kpi_name": "Order Accuracy",
+        "value": 97.46,
+        "date": "2025-02-21"
+    },
+    {
+        "id": 935,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.72,
+        "date": "2025-02-21"
+    },
+    {
+        "id": 936,
+        "kpi_name": "Return Rate",
+        "value": 1.99,
+        "date": "2025-02-21"
+    },
+    {
+        "id": 937,
+        "kpi_name": "Lead Time",
+        "value": 5.84,
+        "date": "2025-02-22"
+    },
+    {
+        "id": 938,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.47,
+        "date": "2025-02-22"
+    },
+    {
+        "id": 939,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.99,
+        "date": "2025-02-22"
+    },
+    {
+        "id": 940,
+        "kpi_name": "Order Accuracy",
+        "value": 98.55,
+        "date": "2025-02-22"
+    },
+    {
+        "id": 941,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.92,
+        "date": "2025-02-22"
+    },
+    {
+        "id": 942,
+        "kpi_name": "Return Rate",
+        "value": 1.46,
+        "date": "2025-02-22"
+    },
+    {
+        "id": 943,
+        "kpi_name": "Lead Time",
+        "value": 4.39,
+        "date": "2025-02-23"
+    },
+    {
+        "id": 944,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.23,
+        "date": "2025-02-23"
+    },
+    {
+        "id": 945,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.49,
+        "date": "2025-02-23"
+    },
+    {
+        "id": 946,
+        "kpi_name": "Order Accuracy",
+        "value": 99.89,
+        "date": "2025-02-23"
+    },
+    {
+        "id": 947,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.73,
+        "date": "2025-02-23"
+    },
+    {
+        "id": 948,
+        "kpi_name": "Return Rate",
+        "value": 1.46,
+        "date": "2025-02-23"
+    },
+    {
+        "id": 949,
+        "kpi_name": "Lead Time",
+        "value": 4.81,
+        "date": "2025-02-24"
+    },
+    {
+        "id": 950,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.05,
+        "date": "2025-02-24"
+    },
+    {
+        "id": 951,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.56,
+        "date": "2025-02-24"
+    },
+    {
+        "id": 952,
+        "kpi_name": "Order Accuracy",
+        "value": 97.98,
+        "date": "2025-02-24"
+    },
+    {
+        "id": 953,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.87,
+        "date": "2025-02-24"
+    },
+    {
+        "id": 954,
+        "kpi_name": "Return Rate",
+        "value": 1.78,
+        "date": "2025-02-24"
+    },
+    {
+        "id": 955,
+        "kpi_name": "Lead Time",
+        "value": 4.52,
+        "date": "2025-02-25"
+    },
+    {
+        "id": 956,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.72,
+        "date": "2025-02-25"
+    },
+    {
+        "id": 957,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.93,
+        "date": "2025-02-25"
+    },
+    {
+        "id": 958,
+        "kpi_name": "Order Accuracy",
+        "value": 97.77,
+        "date": "2025-02-25"
+    },
+    {
+        "id": 959,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.67,
+        "date": "2025-02-25"
+    },
+    {
+        "id": 960,
+        "kpi_name": "Return Rate",
+        "value": 2.27,
+        "date": "2025-02-25"
+    },
+    {
+        "id": 961,
+        "kpi_name": "Lead Time",
+        "value": 5.65,
+        "date": "2025-02-26"
+    },
+    {
+        "id": 962,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.25,
+        "date": "2025-02-26"
+    },
+    {
+        "id": 963,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.58,
+        "date": "2025-02-26"
+    },
+    {
+        "id": 964,
+        "kpi_name": "Order Accuracy",
+        "value": 99.14,
+        "date": "2025-02-26"
+    },
+    {
+        "id": 965,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.38,
+        "date": "2025-02-26"
+    },
+    {
+        "id": 966,
+        "kpi_name": "Return Rate",
+        "value": 1.91,
+        "date": "2025-02-26"
+    },
+    {
+        "id": 967,
+        "kpi_name": "Lead Time",
+        "value": 5.75,
+        "date": "2025-02-27"
+    },
+    {
+        "id": 968,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.41,
+        "date": "2025-02-27"
+    },
+    {
+        "id": 969,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.98,
+        "date": "2025-02-27"
+    },
+    {
+        "id": 970,
+        "kpi_name": "Order Accuracy",
+        "value": 98.39,
+        "date": "2025-02-27"
+    },
+    {
+        "id": 971,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.1,
+        "date": "2025-02-27"
+    },
+    {
+        "id": 972,
+        "kpi_name": "Return Rate",
+        "value": 2.07,
+        "date": "2025-02-27"
+    },
+    {
+        "id": 973,
+        "kpi_name": "Lead Time",
+        "value": 5.09,
+        "date": "2025-02-28"
+    },
+    {
+        "id": 974,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.13,
+        "date": "2025-02-28"
+    },
+    {
+        "id": 975,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.61,
+        "date": "2025-02-28"
+    },
+    {
+        "id": 976,
+        "kpi_name": "Order Accuracy",
+        "value": 98.77,
+        "date": "2025-02-28"
+    },
+    {
+        "id": 977,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.05,
+        "date": "2025-02-28"
+    },
+    {
+        "id": 978,
+        "kpi_name": "Return Rate",
+        "value": 1.45,
+        "date": "2025-02-28"
+    },
+    {
+        "id": 979,
+        "kpi_name": "Lead Time",
+        "value": 5.81,
+        "date": "2025-03-01"
+    },
+    {
+        "id": 980,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.44,
+        "date": "2025-03-01"
+    },
+    {
+        "id": 981,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.22,
+        "date": "2025-03-01"
+    },
+    {
+        "id": 982,
+        "kpi_name": "Order Accuracy",
+        "value": 97.53,
+        "date": "2025-03-01"
+    },
+    {
+        "id": 983,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.98,
+        "date": "2025-03-01"
+    },
+    {
+        "id": 984,
+        "kpi_name": "Return Rate",
+        "value": 2.46,
+        "date": "2025-03-01"
+    },
+    {
+        "id": 985,
+        "kpi_name": "Lead Time",
+        "value": 5.11,
+        "date": "2025-03-02"
+    },
+    {
+        "id": 986,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.24,
+        "date": "2025-03-02"
+    },
+    {
+        "id": 987,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.61,
+        "date": "2025-03-02"
+    },
+    {
+        "id": 988,
+        "kpi_name": "Order Accuracy",
+        "value": 99.59,
+        "date": "2025-03-02"
+    },
+    {
+        "id": 989,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.28,
+        "date": "2025-03-02"
+    },
+    {
+        "id": 990,
+        "kpi_name": "Return Rate",
+        "value": 1.52,
+        "date": "2025-03-02"
+    },
+    {
+        "id": 991,
+        "kpi_name": "Lead Time",
+        "value": 4.34,
+        "date": "2025-03-03"
+    },
+    {
+        "id": 992,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.18,
+        "date": "2025-03-03"
+    },
+    {
+        "id": 993,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.31,
+        "date": "2025-03-03"
+    },
+    {
+        "id": 994,
+        "kpi_name": "Order Accuracy",
+        "value": 99.35,
+        "date": "2025-03-03"
+    },
+    {
+        "id": 995,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.62,
+        "date": "2025-03-03"
+    },
+    {
+        "id": 996,
+        "kpi_name": "Return Rate",
+        "value": 1.42,
+        "date": "2025-03-03"
+    },
+    {
+        "id": 997,
+        "kpi_name": "Lead Time",
+        "value": 4.05,
+        "date": "2025-03-04"
+    },
+    {
+        "id": 998,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.95,
+        "date": "2025-03-04"
+    },
+    {
+        "id": 999,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.71,
+        "date": "2025-03-04"
+    },
+    {
+        "id": 1000,
+        "kpi_name": "Order Accuracy",
+        "value": 99.62,
+        "date": "2025-03-04"
+    },
+    {
+        "id": 1001,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.08,
+        "date": "2025-03-04"
+    },
+    {
+        "id": 1002,
+        "kpi_name": "Return Rate",
+        "value": 2.4,
+        "date": "2025-03-04"
+    },
+    {
+        "id": 1003,
+        "kpi_name": "Lead Time",
+        "value": 5.06,
+        "date": "2025-03-05"
+    },
+    {
+        "id": 1004,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.53,
+        "date": "2025-03-05"
+    },
+    {
+        "id": 1005,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.79,
+        "date": "2025-03-05"
+    },
+    {
+        "id": 1006,
+        "kpi_name": "Order Accuracy",
+        "value": 99.5,
+        "date": "2025-03-05"
+    },
+    {
+        "id": 1007,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.54,
+        "date": "2025-03-05"
+    },
+    {
+        "id": 1008,
+        "kpi_name": "Return Rate",
+        "value": 2.11,
+        "date": "2025-03-05"
+    },
+    {
+        "id": 1009,
+        "kpi_name": "Lead Time",
+        "value": 5.85,
+        "date": "2025-03-06"
+    },
+    {
+        "id": 1010,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.61,
+        "date": "2025-03-06"
+    },
+    {
+        "id": 1011,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.41,
+        "date": "2025-03-06"
+    },
+    {
+        "id": 1012,
+        "kpi_name": "Order Accuracy",
+        "value": 98.03,
+        "date": "2025-03-06"
+    },
+    {
+        "id": 1013,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.99,
+        "date": "2025-03-06"
+    },
+    {
+        "id": 1014,
+        "kpi_name": "Return Rate",
+        "value": 1.47,
+        "date": "2025-03-06"
+    },
+    {
+        "id": 1015,
+        "kpi_name": "Lead Time",
+        "value": 5.28,
+        "date": "2025-03-07"
+    },
+    {
+        "id": 1016,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.95,
+        "date": "2025-03-07"
+    },
+    {
+        "id": 1017,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.66,
+        "date": "2025-03-07"
+    },
+    {
+        "id": 1018,
+        "kpi_name": "Order Accuracy",
+        "value": 99.1,
+        "date": "2025-03-07"
+    },
+    {
+        "id": 1019,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.1,
+        "date": "2025-03-07"
+    },
+    {
+        "id": 1020,
+        "kpi_name": "Return Rate",
+        "value": 1.99,
+        "date": "2025-03-07"
+    },
+    {
+        "id": 1021,
+        "kpi_name": "Lead Time",
+        "value": 4.88,
+        "date": "2025-03-08"
+    },
+    {
+        "id": 1022,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.97,
+        "date": "2025-03-08"
+    },
+    {
+        "id": 1023,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.56,
+        "date": "2025-03-08"
+    },
+    {
+        "id": 1024,
+        "kpi_name": "Order Accuracy",
+        "value": 97.32,
+        "date": "2025-03-08"
+    },
+    {
+        "id": 1025,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.38,
+        "date": "2025-03-08"
+    },
+    {
+        "id": 1026,
+        "kpi_name": "Return Rate",
+        "value": 1.55,
+        "date": "2025-03-08"
+    },
+    {
+        "id": 1027,
+        "kpi_name": "Lead Time",
+        "value": 5.98,
+        "date": "2025-03-09"
+    },
+    {
+        "id": 1028,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.99,
+        "date": "2025-03-09"
+    },
+    {
+        "id": 1029,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.9,
+        "date": "2025-03-09"
+    },
+    {
+        "id": 1030,
+        "kpi_name": "Order Accuracy",
+        "value": 98.91,
+        "date": "2025-03-09"
+    },
+    {
+        "id": 1031,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.85,
+        "date": "2025-03-09"
+    },
+    {
+        "id": 1032,
+        "kpi_name": "Return Rate",
+        "value": 2.14,
+        "date": "2025-03-09"
+    },
+    {
+        "id": 1033,
+        "kpi_name": "Lead Time",
+        "value": 4.79,
+        "date": "2025-03-10"
+    },
+    {
+        "id": 1034,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.71,
+        "date": "2025-03-10"
+    },
+    {
+        "id": 1035,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.07,
+        "date": "2025-03-10"
+    },
+    {
+        "id": 1036,
+        "kpi_name": "Order Accuracy",
+        "value": 99.29,
+        "date": "2025-03-10"
+    },
+    {
+        "id": 1037,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.38,
+        "date": "2025-03-10"
+    },
+    {
+        "id": 1038,
+        "kpi_name": "Return Rate",
+        "value": 2.47,
+        "date": "2025-03-10"
+    },
+    {
+        "id": 1039,
+        "kpi_name": "Lead Time",
+        "value": 4.83,
+        "date": "2025-03-11"
+    },
+    {
+        "id": 1040,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.08,
+        "date": "2025-03-11"
+    },
+    {
+        "id": 1041,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.93,
+        "date": "2025-03-11"
+    },
+    {
+        "id": 1042,
+        "kpi_name": "Order Accuracy",
+        "value": 97.81,
+        "date": "2025-03-11"
+    },
+    {
+        "id": 1043,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.11,
+        "date": "2025-03-11"
+    },
+    {
+        "id": 1044,
+        "kpi_name": "Return Rate",
+        "value": 1.44,
+        "date": "2025-03-11"
+    },
+    {
+        "id": 1045,
+        "kpi_name": "Lead Time",
+        "value": 5.49,
+        "date": "2025-03-12"
+    },
+    {
+        "id": 1046,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.3,
+        "date": "2025-03-12"
+    },
+    {
+        "id": 1047,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.66,
+        "date": "2025-03-12"
+    },
+    {
+        "id": 1048,
+        "kpi_name": "Order Accuracy",
+        "value": 98.78,
+        "date": "2025-03-12"
+    },
+    {
+        "id": 1049,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.65,
+        "date": "2025-03-12"
+    },
+    {
+        "id": 1050,
+        "kpi_name": "Return Rate",
+        "value": 1.42,
+        "date": "2025-03-12"
+    },
+    {
+        "id": 1051,
+        "kpi_name": "Lead Time",
+        "value": 4.53,
+        "date": "2025-03-13"
+    },
+    {
+        "id": 1052,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.92,
+        "date": "2025-03-13"
+    },
+    {
+        "id": 1053,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.67,
+        "date": "2025-03-13"
+    },
+    {
+        "id": 1054,
+        "kpi_name": "Order Accuracy",
+        "value": 98.87,
+        "date": "2025-03-13"
+    },
+    {
+        "id": 1055,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.81,
+        "date": "2025-03-13"
+    },
+    {
+        "id": 1056,
+        "kpi_name": "Return Rate",
+        "value": 2.47,
+        "date": "2025-03-13"
+    },
+    {
+        "id": 1057,
+        "kpi_name": "Lead Time",
+        "value": 5.28,
+        "date": "2025-03-14"
+    },
+    {
+        "id": 1058,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.89,
+        "date": "2025-03-14"
+    },
+    {
+        "id": 1059,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.62,
+        "date": "2025-03-14"
+    },
+    {
+        "id": 1060,
+        "kpi_name": "Order Accuracy",
+        "value": 99.79,
+        "date": "2025-03-14"
+    },
+    {
+        "id": 1061,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.21,
+        "date": "2025-03-14"
+    },
+    {
+        "id": 1062,
+        "kpi_name": "Return Rate",
+        "value": 1.23,
+        "date": "2025-03-14"
+    },
+    {
+        "id": 1063,
+        "kpi_name": "Lead Time",
+        "value": 4.31,
+        "date": "2025-03-15"
+    },
+    {
+        "id": 1064,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.79,
+        "date": "2025-03-15"
+    },
+    {
+        "id": 1065,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.16,
+        "date": "2025-03-15"
+    },
+    {
+        "id": 1066,
+        "kpi_name": "Order Accuracy",
+        "value": 98.28,
+        "date": "2025-03-15"
+    },
+    {
+        "id": 1067,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.03,
+        "date": "2025-03-15"
+    },
+    {
+        "id": 1068,
+        "kpi_name": "Return Rate",
+        "value": 1.61,
+        "date": "2025-03-15"
+    },
+    {
+        "id": 1069,
+        "kpi_name": "Lead Time",
+        "value": 5.2,
+        "date": "2025-03-16"
+    },
+    {
+        "id": 1070,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.39,
+        "date": "2025-03-16"
+    },
+    {
+        "id": 1071,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.01,
+        "date": "2025-03-16"
+    },
+    {
+        "id": 1072,
+        "kpi_name": "Order Accuracy",
+        "value": 98.47,
+        "date": "2025-03-16"
+    },
+    {
+        "id": 1073,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.53,
+        "date": "2025-03-16"
+    },
+    {
+        "id": 1074,
+        "kpi_name": "Return Rate",
+        "value": 1.63,
+        "date": "2025-03-16"
+    },
+    {
+        "id": 1075,
+        "kpi_name": "Lead Time",
+        "value": 4.67,
+        "date": "2025-03-17"
+    },
+    {
+        "id": 1076,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.37,
+        "date": "2025-03-17"
+    },
+    {
+        "id": 1077,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.72,
+        "date": "2025-03-17"
+    },
+    {
+        "id": 1078,
+        "kpi_name": "Order Accuracy",
+        "value": 97.78,
+        "date": "2025-03-17"
+    },
+    {
+        "id": 1079,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.36,
+        "date": "2025-03-17"
+    },
+    {
+        "id": 1080,
+        "kpi_name": "Return Rate",
+        "value": 1.64,
+        "date": "2025-03-17"
+    },
+    {
+        "id": 1081,
+        "kpi_name": "Lead Time",
+        "value": 4.51,
+        "date": "2025-03-18"
+    },
+    {
+        "id": 1082,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.93,
+        "date": "2025-03-18"
+    },
+    {
+        "id": 1083,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.93,
+        "date": "2025-03-18"
+    },
+    {
+        "id": 1084,
+        "kpi_name": "Order Accuracy",
+        "value": 98.61,
+        "date": "2025-03-18"
+    },
+    {
+        "id": 1085,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.5,
+        "date": "2025-03-18"
+    },
+    {
+        "id": 1086,
+        "kpi_name": "Return Rate",
+        "value": 1.27,
+        "date": "2025-03-18"
+    },
+    {
+        "id": 1087,
+        "kpi_name": "Lead Time",
+        "value": 5.39,
+        "date": "2025-03-19"
+    },
+    {
+        "id": 1088,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.56,
+        "date": "2025-03-19"
+    },
+    {
+        "id": 1089,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.97,
+        "date": "2025-03-19"
+    },
+    {
+        "id": 1090,
+        "kpi_name": "Order Accuracy",
+        "value": 98.36,
+        "date": "2025-03-19"
+    },
+    {
+        "id": 1091,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.81,
+        "date": "2025-03-19"
+    },
+    {
+        "id": 1092,
+        "kpi_name": "Return Rate",
+        "value": 1.52,
+        "date": "2025-03-19"
+    },
+    {
+        "id": 1093,
+        "kpi_name": "Lead Time",
+        "value": 4.77,
+        "date": "2025-03-20"
+    },
+    {
+        "id": 1094,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.53,
+        "date": "2025-03-20"
+    },
+    {
+        "id": 1095,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.03,
+        "date": "2025-03-20"
+    },
+    {
+        "id": 1096,
+        "kpi_name": "Order Accuracy",
+        "value": 99.04,
+        "date": "2025-03-20"
+    },
+    {
+        "id": 1097,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.56,
+        "date": "2025-03-20"
+    },
+    {
+        "id": 1098,
+        "kpi_name": "Return Rate",
+        "value": 2.44,
+        "date": "2025-03-20"
+    },
+    {
+        "id": 1099,
+        "kpi_name": "Lead Time",
+        "value": 5.03,
+        "date": "2025-03-21"
+    },
+    {
+        "id": 1100,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.28,
+        "date": "2025-03-21"
+    },
+    {
+        "id": 1101,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.83,
+        "date": "2025-03-21"
+    },
+    {
+        "id": 1102,
+        "kpi_name": "Order Accuracy",
+        "value": 99.03,
+        "date": "2025-03-21"
+    },
+    {
+        "id": 1103,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.07,
+        "date": "2025-03-21"
+    },
+    {
+        "id": 1104,
+        "kpi_name": "Return Rate",
+        "value": 1.2,
+        "date": "2025-03-21"
+    },
+    {
+        "id": 1105,
+        "kpi_name": "Lead Time",
+        "value": 4.9,
+        "date": "2025-03-22"
+    },
+    {
+        "id": 1106,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.84,
+        "date": "2025-03-22"
+    },
+    {
+        "id": 1107,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.54,
+        "date": "2025-03-22"
+    },
+    {
+        "id": 1108,
+        "kpi_name": "Order Accuracy",
+        "value": 97.42,
+        "date": "2025-03-22"
+    },
+    {
+        "id": 1109,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.87,
+        "date": "2025-03-22"
+    },
+    {
+        "id": 1110,
+        "kpi_name": "Return Rate",
+        "value": 2.36,
+        "date": "2025-03-22"
+    },
+    {
+        "id": 1111,
+        "kpi_name": "Lead Time",
+        "value": 4.79,
+        "date": "2025-03-23"
+    },
+    {
+        "id": 1112,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.74,
+        "date": "2025-03-23"
+    },
+    {
+        "id": 1113,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.06,
+        "date": "2025-03-23"
+    },
+    {
+        "id": 1114,
+        "kpi_name": "Order Accuracy",
+        "value": 97.67,
+        "date": "2025-03-23"
+    },
+    {
+        "id": 1115,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.98,
+        "date": "2025-03-23"
+    },
+    {
+        "id": 1116,
+        "kpi_name": "Return Rate",
+        "value": 1.36,
+        "date": "2025-03-23"
+    },
+    {
+        "id": 1117,
+        "kpi_name": "Lead Time",
+        "value": 5.28,
+        "date": "2025-03-24"
+    },
+    {
+        "id": 1118,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.13,
+        "date": "2025-03-24"
+    },
+    {
+        "id": 1119,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.5,
+        "date": "2025-03-24"
+    },
+    {
+        "id": 1120,
+        "kpi_name": "Order Accuracy",
+        "value": 98.46,
+        "date": "2025-03-24"
+    },
+    {
+        "id": 1121,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.43,
+        "date": "2025-03-24"
+    },
+    {
+        "id": 1122,
+        "kpi_name": "Return Rate",
+        "value": 1.77,
+        "date": "2025-03-24"
+    },
+    {
+        "id": 1123,
+        "kpi_name": "Lead Time",
+        "value": 5.61,
+        "date": "2025-03-25"
+    },
+    {
+        "id": 1124,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.74,
+        "date": "2025-03-25"
+    },
+    {
+        "id": 1125,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.48,
+        "date": "2025-03-25"
+    },
+    {
+        "id": 1126,
+        "kpi_name": "Order Accuracy",
+        "value": 98.95,
+        "date": "2025-03-25"
+    },
+    {
+        "id": 1127,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.88,
+        "date": "2025-03-25"
+    },
+    {
+        "id": 1128,
+        "kpi_name": "Return Rate",
+        "value": 2.11,
+        "date": "2025-03-25"
+    },
+    {
+        "id": 1129,
+        "kpi_name": "Lead Time",
+        "value": 4.74,
+        "date": "2025-03-26"
+    },
+    {
+        "id": 1130,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.31,
+        "date": "2025-03-26"
+    },
+    {
+        "id": 1131,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.81,
+        "date": "2025-03-26"
+    },
+    {
+        "id": 1132,
+        "kpi_name": "Order Accuracy",
+        "value": 98.69,
+        "date": "2025-03-26"
+    },
+    {
+        "id": 1133,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.41,
+        "date": "2025-03-26"
+    },
+    {
+        "id": 1134,
+        "kpi_name": "Return Rate",
+        "value": 1.12,
+        "date": "2025-03-26"
+    },
+    {
+        "id": 1135,
+        "kpi_name": "Lead Time",
+        "value": 4.04,
+        "date": "2025-03-27"
+    },
+    {
+        "id": 1136,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.5,
+        "date": "2025-03-27"
+    },
+    {
+        "id": 1137,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.51,
+        "date": "2025-03-27"
+    },
+    {
+        "id": 1138,
+        "kpi_name": "Order Accuracy",
+        "value": 98.76,
+        "date": "2025-03-27"
+    },
+    {
+        "id": 1139,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.74,
+        "date": "2025-03-27"
+    },
+    {
+        "id": 1140,
+        "kpi_name": "Return Rate",
+        "value": 1.76,
+        "date": "2025-03-27"
+    },
+    {
+        "id": 1141,
+        "kpi_name": "Lead Time",
+        "value": 5.67,
+        "date": "2025-03-28"
+    },
+    {
+        "id": 1142,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.17,
+        "date": "2025-03-28"
+    },
+    {
+        "id": 1143,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.69,
+        "date": "2025-03-28"
+    },
+    {
+        "id": 1144,
+        "kpi_name": "Order Accuracy",
+        "value": 99.21,
+        "date": "2025-03-28"
+    },
+    {
+        "id": 1145,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.77,
+        "date": "2025-03-28"
+    },
+    {
+        "id": 1146,
+        "kpi_name": "Return Rate",
+        "value": 2.02,
+        "date": "2025-03-28"
+    },
+    {
+        "id": 1147,
+        "kpi_name": "Lead Time",
+        "value": 4.44,
+        "date": "2025-03-29"
+    },
+    {
+        "id": 1148,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.31,
+        "date": "2025-03-29"
+    },
+    {
+        "id": 1149,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.52,
+        "date": "2025-03-29"
+    },
+    {
+        "id": 1150,
+        "kpi_name": "Order Accuracy",
+        "value": 99.5,
+        "date": "2025-03-29"
+    },
+    {
+        "id": 1151,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.43,
+        "date": "2025-03-29"
+    },
+    {
+        "id": 1152,
+        "kpi_name": "Return Rate",
+        "value": 1.18,
+        "date": "2025-03-29"
+    },
+    {
+        "id": 1153,
+        "kpi_name": "Lead Time",
+        "value": 4.7,
+        "date": "2025-03-30"
+    },
+    {
+        "id": 1154,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.77,
+        "date": "2025-03-30"
+    },
+    {
+        "id": 1155,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.77,
+        "date": "2025-03-30"
+    },
+    {
+        "id": 1156,
+        "kpi_name": "Order Accuracy",
+        "value": 97.33,
+        "date": "2025-03-30"
+    },
+    {
+        "id": 1157,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.43,
+        "date": "2025-03-30"
+    },
+    {
+        "id": 1158,
+        "kpi_name": "Return Rate",
+        "value": 1.41,
+        "date": "2025-03-30"
+    },
+    {
+        "id": 1159,
+        "kpi_name": "Lead Time",
+        "value": 5.93,
+        "date": "2025-03-31"
+    },
+    {
+        "id": 1160,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.2,
+        "date": "2025-03-31"
+    },
+    {
+        "id": 1161,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.46,
+        "date": "2025-03-31"
+    },
+    {
+        "id": 1162,
+        "kpi_name": "Order Accuracy",
+        "value": 98.98,
+        "date": "2025-03-31"
+    },
+    {
+        "id": 1163,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.32,
+        "date": "2025-03-31"
+    },
+    {
+        "id": 1164,
+        "kpi_name": "Return Rate",
+        "value": 1.93,
+        "date": "2025-03-31"
+    },
+    {
+        "id": 1165,
+        "kpi_name": "Lead Time",
+        "value": 4.27,
+        "date": "2025-04-01"
+    },
+    {
+        "id": 1166,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.17,
+        "date": "2025-04-01"
+    },
+    {
+        "id": 1167,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.48,
+        "date": "2025-04-01"
+    },
+    {
+        "id": 1168,
+        "kpi_name": "Order Accuracy",
+        "value": 97.06,
+        "date": "2025-04-01"
+    },
+    {
+        "id": 1169,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.79,
+        "date": "2025-04-01"
+    },
+    {
+        "id": 1170,
+        "kpi_name": "Return Rate",
+        "value": 1.68,
+        "date": "2025-04-01"
+    },
+    {
+        "id": 1171,
+        "kpi_name": "Lead Time",
+        "value": 4.33,
+        "date": "2025-04-02"
+    },
+    {
+        "id": 1172,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.33,
+        "date": "2025-04-02"
+    },
+    {
+        "id": 1173,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.7,
+        "date": "2025-04-02"
+    },
+    {
+        "id": 1174,
+        "kpi_name": "Order Accuracy",
+        "value": 99.53,
+        "date": "2025-04-02"
+    },
+    {
+        "id": 1175,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.24,
+        "date": "2025-04-02"
+    },
+    {
+        "id": 1176,
+        "kpi_name": "Return Rate",
+        "value": 1.37,
+        "date": "2025-04-02"
+    },
+    {
+        "id": 1177,
+        "kpi_name": "Lead Time",
+        "value": 4.35,
+        "date": "2025-04-03"
+    },
+    {
+        "id": 1178,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.9,
+        "date": "2025-04-03"
+    },
+    {
+        "id": 1179,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.52,
+        "date": "2025-04-03"
+    },
+    {
+        "id": 1180,
+        "kpi_name": "Order Accuracy",
+        "value": 97.85,
+        "date": "2025-04-03"
+    },
+    {
+        "id": 1181,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.05,
+        "date": "2025-04-03"
+    },
+    {
+        "id": 1182,
+        "kpi_name": "Return Rate",
+        "value": 1.03,
+        "date": "2025-04-03"
+    },
+    {
+        "id": 1183,
+        "kpi_name": "Lead Time",
+        "value": 4.53,
+        "date": "2025-04-04"
+    },
+    {
+        "id": 1184,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 95.71,
+        "date": "2025-04-04"
+    },
+    {
+        "id": 1185,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.93,
+        "date": "2025-04-04"
+    },
+    {
+        "id": 1186,
+        "kpi_name": "Order Accuracy",
+        "value": 98.66,
+        "date": "2025-04-04"
+    },
+    {
+        "id": 1187,
+        "kpi_name": "Supplier Lead Time",
+        "value": 5.71,
+        "date": "2025-04-04"
+    },
+    {
+        "id": 1188,
+        "kpi_name": "Return Rate",
+        "value": 1.13,
+        "date": "2025-04-04"
+    },
+    {
+        "id": 1189,
+        "kpi_name": "Lead Time",
+        "value": 4.44,
+        "date": "2025-04-05"
+    },
+    {
+        "id": 1190,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 96.4,
+        "date": "2025-04-05"
+    },
+    {
+        "id": 1191,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.99,
+        "date": "2025-04-05"
+    },
+    {
+        "id": 1192,
+        "kpi_name": "Order Accuracy",
+        "value": 97.58,
+        "date": "2025-04-05"
+    },
+    {
+        "id": 1193,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.19,
+        "date": "2025-04-05"
+    },
+    {
+        "id": 1194,
+        "kpi_name": "Return Rate",
+        "value": 1.76,
+        "date": "2025-04-05"
+    },
+    {
+        "id": 1195,
+        "kpi_name": "Lead Time",
+        "value": 5.47,
+        "date": "2025-04-06"
+    },
+    {
+        "id": 1196,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.03,
+        "date": "2025-04-06"
+    },
+    {
+        "id": 1197,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.78,
+        "date": "2025-04-06"
+    },
+    {
+        "id": 1198,
+        "kpi_name": "Order Accuracy",
+        "value": 98.37,
+        "date": "2025-04-06"
+    },
+    {
+        "id": 1199,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.36,
+        "date": "2025-04-06"
+    },
+    {
+        "id": 1200,
+        "kpi_name": "Return Rate",
+        "value": 1.18,
+        "date": "2025-04-06"
+    },
+    {
+        "id": 1201,
+        "kpi_name": "Lead Time",
+        "value": 5.4,
+        "date": "2025-04-07"
+    },
+    {
+        "id": 1202,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.02,
+        "date": "2025-04-07"
+    },
+    {
+        "id": 1203,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.59,
+        "date": "2025-04-07"
+    },
+    {
+        "id": 1204,
+        "kpi_name": "Order Accuracy",
+        "value": 99.0,
+        "date": "2025-04-07"
+    },
+    {
+        "id": 1205,
+        "kpi_name": "Supplier Lead Time",
+        "value": 7.22,
+        "date": "2025-04-07"
+    },
+    {
+        "id": 1206,
+        "kpi_name": "Return Rate",
+        "value": 1.54,
+        "date": "2025-04-07"
+    },
+    {
+        "id": 1207,
+        "kpi_name": "Lead Time",
+        "value": 4.76,
+        "date": "2025-04-08"
+    },
+    {
+        "id": 1208,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 99.42,
+        "date": "2025-04-08"
+    },
+    {
+        "id": 1209,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.35,
+        "date": "2025-04-08"
+    },
+    {
+        "id": 1210,
+        "kpi_name": "Order Accuracy",
+        "value": 99.34,
+        "date": "2025-04-08"
+    },
+    {
+        "id": 1211,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.58,
+        "date": "2025-04-08"
+    },
+    {
+        "id": 1212,
+        "kpi_name": "Return Rate",
+        "value": 1.91,
+        "date": "2025-04-08"
+    },
+    {
+        "id": 1213,
+        "kpi_name": "Lead Time",
+        "value": 4.07,
+        "date": "2025-04-09"
+    },
+    {
+        "id": 1214,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 98.84,
+        "date": "2025-04-09"
+    },
+    {
+        "id": 1215,
+        "kpi_name": "Inventory Turnover",
+        "value": 4.15,
+        "date": "2025-04-09"
+    },
+    {
+        "id": 1216,
+        "kpi_name": "Order Accuracy",
+        "value": 98.47,
+        "date": "2025-04-09"
+    },
+    {
+        "id": 1217,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.18,
+        "date": "2025-04-09"
+    },
+    {
+        "id": 1218,
+        "kpi_name": "Return Rate",
+        "value": 1.7,
+        "date": "2025-04-09"
+    },
+    {
+        "id": 1219,
+        "kpi_name": "Lead Time",
+        "value": 4.59,
+        "date": "2025-04-10"
+    },
+    {
+        "id": 1220,
+        "kpi_name": "Order Fulfillment Rate",
+        "value": 97.69,
+        "date": "2025-04-10"
+    },
+    {
+        "id": 1221,
+        "kpi_name": "Inventory Turnover",
+        "value": 3.88,
+        "date": "2025-04-10"
+    },
+    {
+        "id": 1222,
+        "kpi_name": "Order Accuracy",
+        "value": 98.29,
+        "date": "2025-04-10"
+    },
+    {
+        "id": 1223,
+        "kpi_name": "Supplier Lead Time",
+        "value": 6.8,
+        "date": "2025-04-10"
+    },
+    {
+        "id": 1224,
+        "kpi_name": "Return Rate",
+        "value": 1.49,
+        "date": "2025-04-10"
+    }
+]
